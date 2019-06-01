@@ -1,0 +1,1342 @@
+[0:00:57] <StreamElements> BoarControlHS is now live! Streaming Hearthstone: T1 BoarControl // GM Prep with Mage // Legend Ladder until Grandmasters starts
+[0:01:53] <oheckno> morning boar
+[0:02:21] <Exim01> boarPositive Mornin'
+[0:04:46] <Hsuya> SMOrc
+[0:05:25] <Blastoise> Boar streaming POGGIES
+[0:07:03] <booyah_for_all> Another great stream for NA people who suck at sleeping Kreygasm
+[0:07:12] <Blastoise> ^
+[0:07:18] <booyah_for_all> Also: HAIRCUT
+[0:07:31] <kynhdkwus> OOF
+[0:07:35] <UbererHS> boat yer a gamer. you cant be up this early
+[0:08:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[0:09:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[0:09:09] <booyah_for_all> Boar, real question: what's your GM schedule this weekend? Also, good luck!
+[0:09:42] <BoarControlHS> !command add !schedule https://playhearthstone.com/en-us/esports/schedule/grandmasters?season=1&year=2019&week=2&region=all
+[0:09:42] <StreamElements> @BoarControlHS, successfully added command schedule.
+[0:09:54] <FudoV> is mage favoured aganst midrneg hunr in specilaist
+[0:10:45] <inconnuaubataillon1208> hello @BoarControlHS
+[0:11:27] <akumaker> Mech hunter is very easy to beat if you can just keep removing/freeze after having the tempo
+[0:11:33] <altestadores> Rogue still good?
+[0:12:00] <fozzie4> what's your opinion on vipers idea of having mana wyrm and mana addict for the mirror
+[0:12:29] <Vanqswisher> Hello brother boar. Up nice and early to grind I see
+[0:13:19] <Vanqswisher> guess what time it is for me a :)
+[0:13:42] <haos177> is control warrior still good?
+[0:13:54] <booyah_for_all> I'm headed back to sleep, GL Boar on GM matches!
+[0:14:08] <hen_game_> LUL
+[0:14:11] <Vanqswisher> no googling wtf
+[0:14:19] <lulzbuot> @BoarControlHS if you are only facing token/aggro decks, what tech cards would u use?
+[0:15:05] <CrankyPanda> no mukla on full hand?
+[0:15:10] <FardHast> Double mukla hello?
+[0:15:22] <Vanqswisher> its 4 am im up past my bedtime so dont yell please or ill get in trouble
+[0:17:09] <Blastoise> Hi Vanq :)
+[0:17:25] <UbererHS> hi blastoise boarPositive
+[0:17:31] <Blastoise> Uberer KonCha
+[0:18:11] <Vanqswisher> yo blastoise
+[0:18:17] <Vanqswisher> ray of frost is insane
+[0:18:20] <fdsfdsfgs> I'll help you boar HACKERMANS
+[0:18:48] <Furyhunterhs> I hate mage :(
+[0:19:07] <Furyhunterhs> let me attack with my eddy BabyRage
+[0:19:11] <Vanqswisher> think how much ray stalled that board
+[0:19:18] <Vanqswisher> forever stalled
+[0:19:26] <Kraslee> you hate rogue f bish?
+[0:19:42] <FudoV> imagine if bgh was 3 mana now
+[0:19:45] <altestadores> !mage
+[0:19:45] <StreamElements> ### Giants Mage# Format: Standard# Year of the Raven#AAECAf0EBssEkAee8AK38QLu9gKWmgMM0wGrBOYE4Qe8CMiHA9KJA9uJA4OWA5+bA+KbA/+dAwA=## To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+[0:19:52] <Blastoise> Ray is so much better than most people rated it, I remember a lot of people said it’s such a bad card when it was revealed
+[0:20:07] <evilmorty966> is control shaman viable for ladder? what's your take? @boarcontrolhs
+[0:20:13] <trihard_for_lyf> @BoarControlHS what do u think about the dragon version of mage
+[0:20:13] <FudoV> turns out apxvoid was right about most of mage card this expansions
+[0:20:14] <Blastoise> It’s prob one of the best mage cards
+[0:20:16] <Kraslee> i can beat you with my rogue evej if its nerfed
+[0:20:19] <FudoV> when he gave from 2 tp 4 tp them
+[0:20:53] <Furyhunterhs> I was too tired to remember which eddy I got back from vanish btw LUL so I played the wrong one
+[0:21:16] <Kraslee> i can beat you all day
+[0:21:20] <ToastmonsterHS> ok what odds are you giving me on winning my 2nd open cup finals boar?
+[0:21:29] <ToastmonsterHS> i've stayed up all night for this so i obviously really want it
+[0:21:31] <Furyhunterhs> 90% toast
+[0:21:32] <ToastmonsterHS> that's all that matters right?
+[0:22:14] <Vanqswisher> that turn was okay
+[0:22:21] <ToastmonsterHS> they might be from NA
+[0:22:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[0:22:44] <ToastmonsterHS> we don't have an opponent yet
+[0:22:48] <cvetlica> you are an early bird boar today
+[0:22:53] <ToastmonsterHS> toffee or zhangfei
+[0:23:12] <UbererHS> boarS
+[0:23:17] <UbererHS> they say that?
+[0:23:38] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[0:23:39] <ToastmonsterHS> :'(
+[0:24:08] <ToastmonsterHS> this early boar has a lot of energy
+[0:24:15] <ToastmonsterHS> gm has been really good for your stream content
+[0:25:15] <Blastoise> What if we hard run book of Specters @boarcontrolhs 🤔
+[0:25:49] <ToastmonsterHS> this is why you can't name them, you get attached and sad when theyre frozen
+[0:25:51] <Blastoise> Dave BibleThump
+[0:26:08] <Blastoise> Dave died for this
+[0:26:47] <ToastmonsterHS> so if you get 1 you can't lose it
+[0:26:49] <ToastmonsterHS> powerful
+[0:26:59] <Blastoise> Professional yoinker
+[0:27:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[0:27:22] <eduardolab> 102 vs 102
+[0:28:34] <N0toriousDim> morning boyz
+[0:28:46] <Furyhunterhs> playing around cards PepeLaugh
+[0:28:46] <opiek2> yes
+[0:29:09] <hen_game_> play around rat trap next turn
+[0:29:17] <Vanqswisher> i like giving her the banana
+[0:29:28] <Blastoise> That’s lewd vanq
+[0:29:31] <RadicalMeno1> Kreygasm
+[0:29:39] <Vanqswisher> 4Head
+[0:29:45] <Blastoise> jalexaYAYA
+[0:29:46] <opiek2> big banana
+[0:29:51] <ToastmonsterHS> are all cards equally powerful?
+[0:29:55] <catch22__> OhISee
+[0:29:58] <Furyhunterhs> yes
+[0:30:14] <RadicalMeno1> Kapp
+[0:30:20] <Blastoise> I ate 16 bananas in 1 hour once @boarcontrolhs
+[0:30:22] <Blastoise> For a bet
+[0:30:33] <ToastmonsterHS> was the 16 bananas the prize or the challenge
+[0:30:34] <N0toriousDim> if i ve learned one thing from GMs its just play your cards 4Head as Feno and Cassie taught us
+[0:30:34] <Furyhunterhs> did you have fun? :)
+[0:30:45] <Blastoise> @toastmonsterhs why not both
+[0:30:48] <leviathanhs2> Both same rank :s
+[0:30:55] <UbererHS> 16 dicks
+[0:31:02] <Blastoise> I got $20
+[0:31:13] <Vanqswisher> this deck is just so strong when you hit conj
+[0:31:20] <Vanqswisher> holy moly
+[0:31:21] <Furyhunterhs> Uberer would do his bet for less than $20
+[0:31:34] <UbererHS> boarS
+[0:31:45] <UbererHS> dicks or bananas?
+[0:32:04] <UbererHS> id suck the dicks for free
+[0:32:15] <ZalaeHS> mage beats everything confirm/deny
+[0:32:16] <Vanguard187> Hey jr RDU
+[0:32:19] <Blastoise> I couldn’t poop for 2 days
+[0:32:26] <Blastoise> Afterwards
+[0:32:35] <tictac_hs> Morning boar
+[0:32:37] <UbererHS> its hearthstone grandmaster zalae Pog
+[0:32:42] <Furyhunterhs> I thought we were talking about eating things here @UbererHS FeelsWeirdMan
+[0:32:44] <Vanguard187> @ZalaeHS you banned me so DENY!
+[0:32:48] <brightwizard> how this deck vs mech warrior?
+[0:33:35] <UbererHS> but youre right. im the kind of guy who does stupid shit just cos someone says it cant be done 4Head
+[0:33:36] <ZalaeHS> mech warrior aka warrior lmao
+[0:33:40] <Blastoise> I had to call PETA on Zalae after he beat up dog so badly Kappa
+[0:34:02] <ToastmonsterHS> i think mech warrior will really bring warrior to the top of the meta when the mech buffs come
+[0:34:02] <ZalaeHS> it's a good shove
+[0:34:10] <muzzy_hs> Go in
+[0:34:16] <ZalaeHS> sets up to attack for 5 ez win
+[0:34:50] <Blastoise> Luna PogU
+[0:35:00] <Furyhunterhs> he found the counter PogU
+[0:35:01] <RadicalMeno1> this guys deck is crazy PogU
+[0:35:01] <UbererHS> D:
+[0:35:10] <ToastmonsterHS> he actually chose to put those cards in his deck as well
+[0:35:18] <UbererHS> we had LETHAL
+[0:35:19] <ZalaeHS> this guy teched for murloc shaman lmao
+[0:35:38] <Blastoise> Watch out for the 3 mana 5/6
+[0:35:53] <Crane333> lmao
+[0:35:55] <Crane333> is this
+[0:35:59] <Crane333> handsome paul in chat?
+[0:36:00] <UbererHS> we roll 4/4s
+[0:36:13] <ZalaeHS> nope I'm balding Paul
+[0:36:24] <Crane333> handsome balding paul
+[0:36:29] <Crane333> 2-0 for my fantasy team
+[0:36:31] <Crane333> excellent work
+[0:36:32] <Blastoise> Roll a doomsayer EZ
+[0:36:32] <ZalaeHS> there we go
+[0:36:46] <ZalaeHS> always fantasy draft zalae
+[0:36:57] <Crane333> punish dog for wearing a shir
+[0:36:58] <Crane333> shirt
+[0:37:00] <Crane333> how dares he
+[0:37:07] <ZalaeHS> he's a bad dog
+[0:37:31] <Crane333> so bad he had to be put down.
+[0:37:36] <muzzy_hs> Then don’t float mana play the khagdar
+[0:38:06] <ZalaeHS> I'd rather concede than float mana
+[0:38:27] <Xagz> !deck
+[0:38:27] <StreamElements> On the screen. Use the deck tracker overlay to copy the code.
+[0:38:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[0:38:54] <TotalOrange1> synergy bananabot PogChamp
+[0:39:21] <Blastoise> It’s all minions with the 3 mana 5/6 @boarcontrolhs :)
+[0:39:41] <Slay4daysKappa> monkaS
+[0:39:54] <pepeletuna> Dang, everyone is playing mage RN
+[0:39:58] <Rinsoon> asmoHey
+[0:40:00] <UbererHS> big boi host boarPog
+[0:40:01] <quinns1337> Hello. yes it is BIG :P
+[0:40:17] <hennmoepp> someone have the deckcode?
+[0:40:19] <jetsmaster> is luna an important card in this deck
+[0:40:24] <quinns1337> ### Sand # Format: Standard # Year of the Raven # AAECAf0EBp7wAs31Au72AqCAA9uJA5aaAwzTAasEywTmBOEHvAjIhwPSiQODlgOfmwPimwP/nQMA # # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+[0:40:24] <khalamor> LUL
+[0:40:27] <pepeletuna> LUL
+[0:40:27] <DerFahnder> LUL
+[0:40:29] <ZalaeHS> I came from asmos stream just wondering why you would play mage in this warrior meta
+[0:40:41] <tictac_hs> yeah
+[0:40:42] <pepeletuna> Zalae Pog
+[0:40:45] <hennmoepp> thx
+[0:40:48] <tictac_hs> this is over if you don't get rush monkaS
+[0:40:49] <ToastmonsterHS> remember when you had that opener
+[0:40:49] <bigben__hs> Is it ever just worth hard running frostbolt in this deck?
+[0:40:58] <infinipatrons> conj the tony, no choice
+[0:41:00] <quinns1337> omg its @ZalaeHS HeyGuys
+[0:41:01] <Crane333> EleGiggle
+[0:41:08] <tictac_hs> what is this
+[0:41:10] <muzzy_hs> Ded
+[0:41:10] <Blastoise> Tictac, my shaman deck is unstoppable :)
+[0:41:11] <WildChitose> lmao
+[0:41:14] <Crane333> XD
+[0:41:16] <navioot> misplay
+[0:41:20] <FenoHS> ok i would do the same boar
+[0:41:22] <tictac_hs> had to go for rush with giant and khad :/
+[0:41:25] <FenoHS> so the play was right
+[0:41:30] <UbererHS> what happened here?
+[0:41:38] <TotalOrange1> welcome to the stream, asmo crew 4Head
+[0:41:47] <supevi2956> !lineup
+[0:41:49] <Crane333> is there rush from sea giant?
+[0:41:56] <Blastoise> 8/8 rush
+[0:41:56] <tictac_hs> @Crane333 Yeah the mulch thingy
+[0:41:59] <FenoHS> 8/8 mech
+[0:42:03] <Crane333> thought the 8-8 was removed as the only one
+[0:42:03] <inh3> first time viewing you - solid first impression ;)
+[0:42:05] <Blastoise> Once Druid gets “buffed”
+[0:42:07] <Crane333> oh that change isnt yet
+[0:42:07] <UbererHS> yes. its not 9 mana yet
+[0:42:08] <Crane333> right
+[0:42:08] <Blastoise> It won’t be a thing
+[0:42:10] <Blastoise> LUL
+[0:42:14] <ZalaeHS> does your last opponent stream I want to watch someone good
+[0:42:20] <Blastoise> Druid buff was a mage nerf actually
+[0:42:24] <tictac_hs> does your last opponent stream I want to watch someone good
+[0:42:24] <pepeletuna> LUL
+[0:42:30] <FenoHS> snap ai
+[0:42:39] <420xCeezy> @zalaehs asmoBan
+[0:42:40] <FenoHS> meaning u snap pick the ai
+[0:42:41] <inh3> @BoarControlHS i thoroughly enjoyed it!
+[0:42:44] <TotalOrange1> after last game the intellect seems necessary Kappa
+[0:42:49] <pepeletuna> Boar Control, pls raid BarKod
+[0:42:53] <pepeletuna> Kappa
+[0:42:53] <DerFahnder> will you host barkod if he streams? :D
+[0:43:01] <ZalaeHS> I'd pick ai even if it left me dead on board to 3 fireballs
+[0:43:13] <Crane333> ikehsW
+[0:43:40] <pepeletuna> *making BarKod account to steal viewers*
+[0:43:55] <GinJuiceX> when do EU GM start?
+[0:44:02] <tictac_hs> luna
+[0:44:03] <pepeletuna> 35 mins
+[0:44:09] <WildChitose> avt
+[0:44:15] <pepeletuna> Oh, asia's first. My bad
+[0:44:18] <FenoHS> what if we just freeze instead
+[0:44:26] <GinJuiceX> thanks SeemsGood
+[0:44:36] <FenoHS> oh u can attack
+[0:44:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[0:44:38] <FenoHS> i didnt realise
+[0:44:40] <Crane333> AVT
+[0:44:43] <UbererHS> vt DansGame
+[0:44:44] <tictac_hs> Frostbolt :(
+[0:44:47] <ZalaeHS> AVT
+[0:44:50] <DerFahnder> AVT
+[0:44:51] <FenoHS> well ofc u vt
+[0:45:01] <UbererHS> MISSED 3
+[0:45:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[0:45:10] <ToastmonsterHS> boar I got the hunter mirror now im sad
+[0:45:14] <BlackForce_> SeemsGood
+[0:45:19] <FenoHS> nice try
+[0:45:27] <ZalaeHS> snap freeze is for pussies draw some cards like a man
+[0:45:40] <pepeletuna> Is Murloc Shaman the best aggro in current meta?
+[0:45:47] <FenoHS> he doesnt have it ye Kappa
+[0:45:49] <inh3> agree with being a man
+[0:45:53] <inh3> lol
+[0:45:55] <ToastmonsterHS> someone hasn't seen zalae interviews
+[0:45:57] <quinns1337> LUL
+[0:46:00] <Crane333> if it didn't we would have more female gms
+[0:46:04] <quinns1337> if only u had voodoo
+[0:46:17] <sintolol> crane lets play cs
+[0:46:22] <iYellow_> is zalae a gm?
+[0:46:35] <pepeletuna> Not running vodoo LUL
+[0:46:41] <Crane333> I thought that was very funny
+[0:46:43] <ZalaeHS> yes I got invited for being a streamer
+[0:46:51] <UbererHS> zalae is the grandest of masters
+[0:46:53] <420xCeezy> @sintolol playing cs?
+[0:46:54] <pepeletuna> No conjurer's Pog
+[0:47:07] <pepeletuna> Lunna survives too
+[0:47:16] <FenoHS> WaitWhat
+[0:47:19] <WildChitose> lmao
+[0:47:22] <GinJuiceX> lol
+[0:47:24] <FenoHS> fenoGalaxy
+[0:47:37] <quinns1337> drawww
+[0:47:46] <pepeletuna> Sea giant first monkaS
+[0:48:00] <ZalaeHS> play stuff kill stuff tempo good
+[0:48:05] <sintolol> @Crane333 dont ignore me
+[0:48:11] <Crane333> im prisoner
+[0:48:11] <ZalaeHS> yeah this play checks out
+[0:48:14] <quinns1337> 1 turn = 1 week
+[0:48:14] <Crane333> by åarents cat
+[0:48:18] <pepeletuna> Poor girl is starving FeelsBadMan
+[0:48:23] <Crane333> he is on top of my pc basically..
+[0:48:27] <Crane333> no cs.
+[0:48:34] <FenoHS> conj zilliax
+[0:48:35] <pepeletuna> Conjurer's for rush 10 drop LUL
+[0:48:36] <FenoHS> always clears
+[0:48:37] <FenoHS> wtf
+[0:48:42] <FenoHS> u always get a mech
+[0:48:59] <GinJuiceX> and the show goes on LUL
+[0:49:00] <FenoHS> go again
+[0:49:02] <FenoHS> u get 8/8 now
+[0:49:04] <meatihs> Draw 3
+[0:49:11] <pepeletuna> Crush Nozari
+[0:49:17] <infinipatrons> its only guaranteed to give you a mech on the second try
+[0:49:19] <WildChitose> we go agane
+[0:49:19] <pepeletuna> Nozari is lame
+[0:49:23] <quinns1337> Bugged LUL
+[0:49:34] <kissenceto> we are playing snap freeze now?
+[0:49:45] <pepeletuna> Play it LUL
+[0:50:00] <ZalaeHS> boohoo huge board 3 novas
+[0:50:03] <pepeletuna> monkaW
+[0:50:04] <Clickbait_APAC> Maybe he was doing same earlier. It wasn't misplay "just making a point" Kappa Kappa Kappa
+[0:50:18] <quinns1337> LUL
+[0:50:19] <kissenceto> he will fatigue you i guess
+[0:50:20] <pepeletuna> He's trying to mill you LUL
+[0:50:28] <N0toriousDim> he is commited Kappa
+[0:50:29] <quinns1337> im dying
+[0:50:31] <pepeletuna> Nah, smash Nozari
+[0:50:37] <FenoHS> do it on he 4/10
+[0:50:38] <bigben__hs> He’s taking you to fatigue LUL
+[0:50:40] <TotalOrange1> displaying dominance
+[0:50:53] <pepeletuna> Full life PogChamp
+[0:50:54] <Violeta_official23> genius
+[0:50:56] <Violeta_official23> LUL
+[0:50:58] <quinns1337> always genius play
+[0:51:11] <meatihs> That is a big boy
+[0:51:15] <pepeletuna> Opponent is not killing luna so you kill yourself with double Hakar deathrattle PogChamp
+[0:51:39] <bigben__hs> Maybe you just lose now to fatigue and double Hakara :thinking:
+[0:51:40] <muzzy_hs> Your mechathun won’t work with these Hakkar bloods in deck boar
+[0:51:40] <blo0draven> next level strat Pog
+[0:51:57] <bestofire0> @bestofire0 is new here. Say hello! SeemsGood
+[0:52:03] <ZalaeHS> muzz with the pro tips
+[0:52:06] <pepeletuna> SeemsGood
+[0:52:15] <Zeh__HS> OMEGALUL
+[0:52:16] <WildChitose> this was the line
+[0:52:20] <pepeletuna> Opponent outplayed you LUL
+[0:52:22] <blo0draven> Getting rolled OMEGALUL
+[0:52:26] <Paranoia_Za> HAHAHAHAHA
+[0:52:34] <pepeletuna> Not killing luna is a galaxy brain play
+[0:52:43] <bigben__hs> Do we keep our hand at 10 cards
+[0:52:56] <bigben__hs> Like sea giant and banana
+[0:53:14] <TotalOrange1> not conj'ing the second hakkar DansGame
+[0:53:15] <quinns1337> ooo poly
+[0:53:19] <pepeletuna> Try to burn corrupted blood?
+[0:53:25] <dennydeee> !deck
+[0:53:25] <StreamElements> On the screen. Use the deck tracker overlay to copy the code.
+[0:53:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[0:53:54] <trihard_for_lyf> @BoarControlHS can u explain why no archmage anton in this deck
+[0:54:34] <quinns1337> Pog
+[0:54:37] <pepeletuna> Pog
+[0:54:41] <GinJuiceX> time for blood, oh oopies doopies, milled it
+[0:54:47] <FenoHS> its lethal
+[0:54:55] <FenoHS> bluegil or direwolf so its guaranteed
+[0:55:03] <quinns1337> with monkey
+[0:55:11] <ZalaeHS> lethal just make him draw blood
+[0:55:27] <UbererHS> @trihard_for_lyf you lose more games by having an unplayable 7-drop in hand than you win by making fireballs
+[0:55:43] <trihard_for_lyf> i see thanks
+[0:55:57] <ElectricLawnMower> muzzgod can see the future
+[0:56:08] <UbererHS> MISSED LETHAL
+[0:56:12] <athrem01> missed lethal
+[0:56:20] <ZalaeHS> I like the pass line
+[0:56:21] <CarnageTime> @CarnageTime is new here. Say hello! SeemsGood
+[0:56:26] <ZalaeHS> solid bm
+[0:56:36] <DerFahnder> he played around it
+[0:56:37] <FenoHS> ping ur face and pass
+[0:56:46] <UbererHS> tbh we passed for the rest of the game
+[0:56:49] <quinns1337> double bm SeemsGood
+[0:56:56] <Clickbait_APAC> Sniped.
+[0:57:04] <ZalaeHS> Tara conceding there was a sniper play to Dodge ur bm line
+[0:57:29] <ZalaeHS> keep sandbindr
+[0:57:50] <triharding_to_get_a_name> is this the right version? HandsUp
+[0:58:47] <Vishtiga> LUL Snap freeze actual card
+[0:58:51] <pepeletuna> Frothing monkaW
+[0:58:57] <BlackForce_> mech warrior
+[0:58:58] <l0wxx> monkaW
+[0:58:58] <Flopsyde> zyrios plays that
+[0:59:06] <WildChitose> you always play curve warrior
+[0:59:07] <novasae> yeah zyrios got to like #19 or something
+[0:59:25] <ZalaeHS> it's better than eternium Rover in this meta
+[1:00:21] <Flopsyde> its control
+[1:00:26] <tom89071> its clown warrior
+[1:00:32] <inconnuaubataillon1208> it'a a rush warrior
+[1:00:43] <tom89071> CLOWN WARRIOR
+[1:00:45] <CaRuJa_> @Archeom what is this deck please sir?
+[1:00:45] <brain_rot> PepeLaugh
+[1:00:50] <stoneboi> CLOWN WARRIOR
+[1:00:57] <Clickbait_APAC> Bomb warrior with frothing @boarcontrolhs
+[1:02:00] <N0toriousDim> warpath is lethal monkaS
+[1:02:16] <plbrta> what kind of godforsaken abomination is this? Archerknight + Insom?
+[1:02:37] <muzzy_hs> Boar I took some melatonin but your awful plays are putting me to sleep before it kicks in
+[1:02:54] <quinns1337> LUL
+[1:03:06] <Clickbait_APAC> BibleThump
+[1:03:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[1:03:47] <Clickbait_APAC> @muzzy_hs why take drugs when boar can save you some pain and money. Value stream. LUL
+[1:03:49] <ZalaeHS> boar I'm super hungry but I'm too riveted by your awful plays to feed myself
+[1:04:03] <kira_tz13> mana cyclone is op ..
+[1:04:25] <kira_tz13> 2 mana 2/2 add 6 random mage spells ..
+[1:04:28] <Flopsyde> it just replaces acolytes
+[1:04:40] <muzzy_hs> They should do a brawl where you can have an unlimited hand size like artifact
+[1:04:56] <dubstepx_> counterspell thne brawl
+[1:05:03] <ZalaeHS> I want unlimited board space
+[1:05:09] <quinns1337> ^
+[1:05:14] <ZalaeHS> everyone get in here!
+[1:05:19] <quinns1337> BOAR control
+[1:05:22] <dubstepx_> why no counterspell?
+[1:05:22] <VFXFFX> Pepega
+[1:05:29] <navioot> they should make it 3 boards like artifact
+[1:05:37] <ofekiko89> counterspell is betteisnt it?
+[1:05:40] <ofekiko89> for brawl
+[1:05:55] <muzzy_hs> Underbelly ooze shaman would be broken with unlimited board space
+[1:05:56] <UbererHS> im pretty sure 11 cards in hand is a thing
+[1:06:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[1:06:47] <UbererHS> im sure theres a toast video on it
+[1:06:51] <TotalOrange1> revenge pyroblast face
+[1:07:09] <Qmfdkf297> secret mage Pog
+[1:07:11] <quinns1337> TWO PYROS
+[1:07:13] <quinns1337> Pog
+[1:07:18] <muzzy_hs> Missed on curve pyro
+[1:07:19] <Slay4daysKappa> Pog pyro face
+[1:07:20] <DerFahnder> BlessRNG
+[1:07:23] <VFXFFX> monkaThink
+[1:07:27] <Clickbait_APAC> Yep he had got that bug after koft or Witchwood. @ubererhs
+[1:07:27] <N0toriousDim> monka
+[1:07:38] <GinJuiceX> SMOrc Dos Pyros
+[1:07:59] <Slay4daysKappa> missed dobbel millhouse
+[1:08:03] <Qmfdkf297> BrokeBack
+[1:08:11] <quinns1337> hate warrior DansGame
+[1:08:20] <Qmfdkf297> warrior BrokeBack
+[1:08:22] <quinns1337> 6 cards 2 mana balanced
+[1:08:38] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[1:08:39] <nejxy> mage isnt any better tho
+[1:08:42] <Qmfdkf297> Pog
+[1:08:45] <nejxy> mage vs warrior ... aids vs ebola
+[1:08:53] <Slay4daysKappa> Dobbel secrets Pog
+[1:08:55] <Qmfdkf297> secret mage pog
+[1:08:58] <allhlendotos> twice secret pogu
+[1:08:58] <TotalOrange1> double vaporize PogChamp
+[1:09:00] <MOTORSENSENMANN> the random secret synergy
+[1:09:01] <Qmfdkf297> secret mage Pog
+[1:09:06] <quinns1337> bUT tHeyRe RaNdOM
+[1:09:10] <VFXFFX> EZ
+[1:09:17] <N0toriousDim> double counterspell Pog
+[1:09:21] <Slay4daysKappa> It kills them Pog
+[1:09:24] <hen_game_> one spell gets double countered
+[1:09:29] <plbrta> finally, mage secrets that stack
+[1:09:32] <Darknezz11> delete the spell from the game Pog
+[1:09:49] <N0toriousDim> he never plays around the same random secrets Kappa
+[1:09:51] <UbererHS> @plbrta boarPositive /
+[1:09:52] <Slay4daysKappa> Pog for conj
+[1:09:53] <RadicalMeno1> value FeelsGoodMan
+[1:09:53] <Qmfdkf297> Pog
+[1:09:56] <GinJuiceX> Value
+[1:09:58] <Clickbait_APAC> Love this song
+[1:10:04] <Clickbait_APAC> BloodTrail
+[1:10:11] <N0toriousDim> conj value Pog
+[1:10:16] <Vegetavegas> lmao
+[1:10:17] <RadicalMeno1> LULW
+[1:10:20] <quinns1337> DISGUSTING
+[1:10:21] <brain_rot> FARMED
+[1:10:24] <antmist> monkaW
+[1:10:25] <GlaydorKappa> DansGame
+[1:10:28] <UbererHS> boar. i think your minions are dead
+[1:10:31] <Qmfdkf297> pyro Pog
+[1:10:36] <UbererHS> for the rest of the game
+[1:10:41] <N0toriousDim> PepeHands
+[1:10:45] <brain_rot> PepeLaugh
+[1:10:48] <RadicalMeno1> PepeLaugh
+[1:10:51] <Qmfdkf297> Pog
+[1:11:07] <quinns1337> spell damage PYRO Pog
+[1:11:13] <hen_game_> pyro his face to show dominance
+[1:11:14] <Clickbait_APAC> Opponent is a monster :Z
+[1:11:16] <ZalaeHS> 6+7 is 13 not 12 you imbecile
+[1:11:18] <nejxy> bounce the barista PepeLaugh
+[1:11:18] <Qmfdkf297> 11 PYRO Pog
+[1:11:26] <TotalOrange1> 2x pyro face then khadgar conjurer 2 leeroys ez
+[1:11:41] <Qmfdkf297> BrokeBack omega
+[1:11:47] <Qmfdkf297> BrokeBack Clap
+[1:11:53] <Darknezz11> infinite omegas LUL
+[1:11:54] <N0toriousDim> conj the 1/1 DansGame
+[1:12:07] <Qmfdkf297> Pog
+[1:12:29] <kira_tz13> is this play legal ??
+[1:12:49] <nejxy> Clear BlessRNG
+[1:12:51] <quinns1337> EZ Clap
+[1:13:00] <Venrai> illegal actions detected
+[1:13:02] <anonymousdalek> `You cannot do this play in your area'
+[1:13:06] <TotalOrange1> this play will require you to go buy a porn license from a corner shop in the UK from june
+[1:13:23] <N0toriousDim> EZ Clap
+[1:13:24] <quinns1337> HSWP
+[1:13:26] <allhlendotos> ez
+[1:13:29] <Slay4daysKappa> Pog
+[1:13:34] <pepeletuna> Actually though, Omega abilities should only work if you play them with 10 full crystals. It's more interesting and not a huge nerf, but it prevents abuses
+[1:13:38] <Slay4daysKappa> But dident pyro so DansGame
+[1:13:41] <datfrogger> no brawlz in deck EZ
+[1:13:42] <fordgalaxy> use VPN then you can do the play anywhere
+[1:13:42] <ZalaeHS> giant on 4 khadgar conj on 5 probably happens more than once or twice
+[1:14:04] <quinns1337> giant never stays
+[1:14:07] <quinns1337> Kappa
+[1:14:33] <poyrazari> does omegas happen with at 9mana with coin?
+[1:14:39] <DerFahnder> no
+[1:14:41] <ZalaeHS> yes
+[1:14:49] <pepeletuna> Pro says yes monkaW
+[1:14:56] <quinns1337> 🤔
+[1:14:57] <ZalaeHS> you have to believe VERY hard tho
+[1:14:59] <WangDingDang> is the sand deck the ladder nuts?
+[1:15:08] <pepeletuna> Sand deck?
+[1:15:26] <WangDingDang> the one atm
+[1:15:48] <dubstepx_> do it
+[1:15:49] <pepeletuna> Oh, depends on whether you're grinding in legend or pushing toward it
+[1:15:51] <sutikshna> @BoarControlHS best of luck for ur gm match roothing for u mate
+[1:16:12] <ZalaeHS> this is lethal I think
+[1:16:13] <pepeletuna> I'd recommend the murloc shaman played in gm for pushing to legend, cause it's just more time efficient
+[1:16:26] <pepeletuna> But mage is the thing to play in Legend atm
+[1:16:34] <quinns1337> so much card draw
+[1:17:00] <pepeletuna> Specters going to discard your callings LUL
+[1:17:01] <WangDingDang> ye legend
+[1:17:03] <datfrogger> play book Pepega
+[1:17:14] <quinns1337> BOOK
+[1:17:21] <WangDingDang> idk i had a lot of fun with rogue but pepehands
+[1:17:22] <pepeletuna> Book or you're a coward Kappa
+[1:17:28] <quinns1337> PepeHands
+[1:17:41] <pepeletuna> New Shark rogue is definitely legend worthy right now
+[1:17:45] <kissandyolo> @boarcontrolhs if u face a lot of warriors on ladder what would u change from this list?
+[1:17:54] <UbererHS> worst of luck in your gm matches. im rooting for viper
+[1:17:57] <pepeletuna> StrifeCros rank 1 NA rogue list is good
+[1:17:58] <WangDingDang> @pepeletuna you have a code? ima try it
+[1:18:02] <datfrogger> @kissandyolo add astromancer
+[1:18:17] <novasae> @WangDingDang it's the same as his grandmasters deck this week
+[1:18:28] <sutikshna> does firebat play today @chat
+[1:18:30] <ZalaeHS> not enough people go around wishing bad luck on others. such a sweet power play
+[1:18:30] <WangDingDang> his primary?
+[1:18:37] <pepeletuna> @WangDingDang https://playhearthstone.com/en-us/esports/match/26354
+[1:18:48] <kissandyolo> what should i cut for astro?
+[1:19:03] <datfrogger> i wish u ill fortunes
+[1:19:03] <pepeletuna> You can run any of the three, but list 1 is most consistent versus mage (the most common thing on ladder rn)
+[1:19:10] <UbererHS> fuck you boar. win or i unsub
+[1:19:11] <ZalaeHS> I grant you luck boar
+[1:19:14] <CasualCobraDobra> i grant you luck Kappa
+[1:19:15] <pepeletuna> Take luck, boar control
+[1:19:17] <Chamros> I command you to be lucky
+[1:19:17] <UbererHS> is that good motivation?
+[1:19:19] <dworniak_PL> just get lucky EZ Clap
+[1:19:20] <ZalaeHS> not saying what kind of luck
+[1:19:21] <UbererHS> :)
+[1:19:22] <anonymousdalek> how do I shove luck down throat?
+[1:19:28] <WangDingDang> i seem to hit mech hunter a lot @pepeletuna
+[1:19:43] <antmist> LUL
+[1:19:45] <quinns1337> always brawl PepeHands
+[1:19:47] <Chamros> bad luck?
+[1:19:49] <UbererHS> yikers
+[1:19:51] <datfrogger> the worst luck LUL
+[1:19:56] <allhlendotos> LUL
+[1:19:57] <sutikshna> good and bad type
+[1:20:01] <pepeletuna> @WangDingDang StrifeCro's list is good for that because it runs way more early board cards
+[1:20:15] <ZalaeHS> I don't need luck anyway my Grandpa's deck has no weak cards
+[1:20:17] <pepeletuna> blink fox, fence, hench clan
+[1:20:22] <pepeletuna> Etc.
+[1:20:27] <quinns1337> LUL @ZalaeHS
+[1:20:34] <WangDingDang> nice ima try
+[1:20:52] <WangDingDang> if its fun im not rly one to care for pushing to high legend
+[1:20:58] <ZalaeHS> I believe in the heart of the cards
+[1:21:03] <pepeletuna> It's definitely a tricky deck to get the hang up, since it's power swings massively around how well you execute around your sharks
+[1:21:05] <WangDingDang> ill just chill in the dumpster
+[1:21:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[1:21:09] <tictac_hs> I see a Dr Boom and 10 mana
+[1:21:09] <datfrogger> now thats a value trade
+[1:21:10] <datfrogger> Pog
+[1:21:10] <tictac_hs> I'm scared
+[1:21:14] <nejxy> OMEGALUL BlessRNG
+[1:21:16] <quinns1337> nasty play
+[1:21:23] <UbererHS> the card is described as pathetic. not weak :/
+[1:21:24] <pepeletuna> And figuring out when to push for face is a crucial switch to nail
+[1:21:33] <datfrogger> @tictac_hs OMEGALUL
+[1:21:34] <quinns1337> disgusting
+[1:21:47] <TakeTheMick> hi boar
+[1:21:48] <ZalaeHS> when to go face: always
+[1:22:01] <quinns1337> SMOrc
+[1:22:10] <allhlendotos> deva again?
+[1:22:14] <datfrogger> omega assembly and delivery drone same turn
+[1:22:15] <WangDingDang> for this deck boar is playing atm is it viable to -luna +anton?
+[1:22:17] <raiden_pad> hi KonCha
+[1:22:17] <kissandyolo> rank 60 play making giant plus conj possible omegalul
+[1:22:18] <tictac_hs> I feel like he didn't get devastator
+[1:22:18] <datfrogger> Pog
+[1:22:18] <pepeletuna> @WangDingDang Actually, if you have a moment I'd watch the two games he played it. In one he does turn 5 Myra and squeezes out a quick win
+[1:22:19] <tictac_hs> :/
+[1:22:22] <nejxy> Mage players DansGame
+[1:22:23] <CasualCobraDobra> !drboom
+[1:22:23] <StreamElements> "We don’t think that Dr. Boom feels inherently bad to play against and it doesn’t seem like a huge balance outlier right now, so we’re going to let things develop before we make a call on card changes"
+[1:22:32] <마법소녀김수미> what hes SK T1???
+[1:22:33] <quinns1337> !drboom
+[1:22:33] <StreamElements> "We don’t think that Dr. Boom feels inherently bad to play against and it doesn’t seem like a huge balance outlier right now, so we’re going to let things develop before we make a call on card changes"
+[1:22:41] <RadicalMeno1> senfCLOWN
+[1:22:43] <tictac_hs> @kissandyolo Sometimes it's correct if you've an answer but yeah this guy clearly doesn't seem to have an answer
+[1:22:43] <WangDingDang> ill watch his game
+[1:22:55] <datfrogger> @마법소녀김수미 yes
+[1:23:13] <pepeletuna> @WangDingDang Ehhh Luna is your best card draw. I'd swap something like Snap Freeze for Anton, as those are bothh control oriented.
+[1:23:16] <TakeTheMick> you dont kill your friends
+[1:23:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[1:23:37] <WangDingDang> aight sic be back later gonna try these
+[1:23:39] <sutikshna> i thought we go face only when in doubt
+[1:23:43] <pepeletuna> Have a good time
+[1:23:51] <allhlendotos> no pyro feelsbadman
+[1:23:53] <pepeletuna> I got to run myself to catch GM starting up again
+[1:23:55] <tictac_hs> I hope for you he actually dies
+[1:24:00] <shAkam_> omega omega
+[1:24:04] <pepeletuna> Good luck with your games later Boar Control!
+[1:24:06] <tictac_hs> jk
+[1:24:08] <sutikshna> wich region gm happening ow
+[1:24:09] <shAkam_> is it ?
+[1:24:13] <pepeletuna> Asia now
+[1:24:19] <pepeletuna> Just starting
+[1:24:29] <shAkam_> frost
+[1:24:30] <shAkam_> cinder
+[1:24:54] <tictac_hs> Okay
+[1:24:56] <tictac_hs> now he dies RIGHT
+[1:24:58] <datfrogger> OMEGALUL R D E R
+[1:25:26] <DexterMorganGod> to much discover RNG fo me gona go play autochess LUL
+[1:25:32] <tictac_hs> I feel like he's not going to die :/
+[1:25:35] <Kjisu> "That's the part where my opponent dies." Boar, the part where his opponent didnt die
+[1:25:40] <sutikshna> is that imp good in zoo
+[1:25:46] <tictac_hs> @sutikshna no
+[1:25:46] <stancho0o> No Antonidas?
+[1:25:54] <tictac_hs> Yup we lose
+[1:25:56] <tictac_hs> oof
+[1:25:58] <Flopsyde> blastshield Pog
+[1:26:02] <datfrogger> book of specters
+[1:26:08] <datfrogger> Kappa
+[1:26:20] <allhlendotos> armor
+[1:26:36] <tictac_hs> That's what warrior does :/
+[1:26:48] <RadicalMeno1> senfCLOWN master of mechs
+[1:27:12] <datfrogger> power play
+[1:27:15] <datfrogger> lose faster
+[1:27:58] <datfrogger> 8 mana on a non mech instead of hero power monkaS
+[1:28:00] <BiteHades> 200iq can win anything
+[1:28:13] <tictac_hs> @datfrogger He had bgh in deck that's why
+[1:28:27] <brain_rot> OMEGALUL
+[1:28:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[1:28:43] <allhlendotos> one million dmg
+[1:29:12] <datfrogger> frostbolt dream
+[1:29:13] <nejxy> is that grim patron warrior Pog
+[1:29:19] <nejxy> 30 dmg frothing
+[1:29:20] <datfrogger> still not enough
+[1:29:21] <datfrogger> monkaS
+[1:29:32] <antmist> this board state makes me depressed FeelsBadMan
+[1:29:44] <stancho0o> No Antonidas?
+[1:29:50] <bad_player_bad_plays> monkaW
+[1:29:52] <antmist> POGGERS
+[1:29:55] <nejxy> that luck
+[1:30:11] <datfrogger> need him to deathwing
+[1:30:13] <datfrogger> LUL
+[1:30:26] <CozyKittenHS> @BoarControlHS Trick into Astral Rift
+[1:30:26] <Bastyt> discover add two minions from magic trick
+[1:30:27] <antmist> magic trick into astral rift EZ
+[1:30:35] <tictac_hs> magic trick astral rift Elysiana
+[1:30:51] <DexterMorganGod> his sniping aswell
+[1:30:58] <antmist> it's coming POGGERS
+[1:31:03] <RadicalMeno1> close FeelsBadMan
+[1:31:04] <tictac_hs> Close enough
+[1:31:24] <tictac_hs> what's the perfect 4 drop even
+[1:31:29] <CozyKittenHS> roll weaponized pinata
+[1:31:32] <TakeTheMick> this is an L
+[1:31:40] <antmist> no 4 mana 7/7s in the game anymore FeelsBadMan
+[1:31:58] <tictac_hs> 21 hp monkaW
+[1:32:35] <nejxy> LULW
+[1:32:40] <tictac_hs> This guy has been playing this game quite badly aswell
+[1:32:43] <tictac_hs> but it doesn't matter
+[1:33:03] <antmist> what are you talking about? he's been on point with his boom hero powers Kappa
+[1:33:27] <FenoHS> what number is ur game boar
+[1:33:43] <sutikshna> @tictac_hs do u play badly ever if u win?? monkahmm
+[1:34:07] <nejxy> PogU non mage / warrior class
+[1:34:09] <antmist> gg easy game EZ Clap
+[1:34:24] <FenoHS> this hand?
+[1:34:31] <dworniak_PL> fenoGalaxy where is i
+[1:34:38] <tictac_hs> Somehow mages always have this hand vs me
+[1:34:40] <FenoHS> id keep i think
+[1:35:27] <nejxy> wtf jugler
+[1:35:28] <tictac_hs> Senf deck :o
+[1:35:33] <nejxy> so no call ?
+[1:35:45] <carlos2016carlos> free win
+[1:35:54] <nejxy> SMOrc
+[1:36:14] <TakeTheMick> then he plays hunters mark deadly shot
+[1:36:14] <nejxy> deadly shot PepeLaugh
+[1:36:30] <Violeta_official23> ggeasygame
+[1:37:10] <sutikshna> wtf is jugller doing in hunter
+[1:37:23] <nejxy> facetank monkaS
+[1:37:41] <nejxy> 2X Deadly shot
+[1:37:44] <nejxy> Keepo
+[1:37:50] <datfrogger> no double deadly LUL
+[1:38:02] <carlos2016carlos> gg
+[1:38:19] <nejxy> thats what u get for playing anything but warrior or mage Keepo
+[1:38:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[1:39:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[1:40:20] <kissandyolo> what woulf you guys cut from this list and add if u face a lot of warriors on ladder?
+[1:41:14] <UncleDrewOnMe> rabble
+[1:41:23] <UncleDrewOnMe> add tony
+[1:42:00] <FenoHS> ?
+[1:42:08] <FenoHS> just conjurers the hyena?
+[1:42:25] <TakeTheMick> oof
+[1:42:50] <TakeTheMick> couldve also just snap froze at 1 mana
+[1:42:55] <Marxeyy> Thats a throw
+[1:42:56] <FenoHS> you always conj it
+[1:43:00] <FenoHS> dunno what u did that turn
+[1:43:22] <bad_player_bad_plays> throwcontrol PepeLaugh
+[1:44:16] <Marxeyy> But why play the odds when you have the snapfreeze?
+[1:45:18] <tictac_hs> What are we spectating zrtThink
+[1:46:06] <Furyhunterhs> idk looks like an awful deck 4Head
+[1:46:09] <Tharoff93> @Tharoff93 is new here. Say hello! SeemsGood
+[1:46:12] <tictac_hs> It really does 4Head
+[1:46:27] <Furyhunterhs> oh you can't see that it's me he's spectating 4Head
+[1:46:40] <ggeasygameHS> yo tictac I got unlucky 2 games in a row
+[1:47:37] <tictac_hs> @ggeasygameHS Oh no I wasn't talking about your deck
+[1:47:42] <tictac_hs> I was talking about this rogue deck LUL
+[1:48:05] <ggeasygameHS> I know buddy
+[1:48:09] <UncleDrewOnMe> EZ sap
+[1:48:33] <nickvreter> Woah boar, you a big boy streamer now Pog
+[1:48:39] <Furyhunterhs> this deck is broken :)
+[1:48:40] <TakeTheMick> couldve been better
+[1:48:46] <Furyhunterhs> harri is core :)
+[1:48:49] <tictac_hs> :)
+[1:49:18] <yatokami2> myra beats anything
+[1:49:22] <Furyhunterhs> 2 games ago I played 19 miscreants vs warrior :)
+[1:49:30] <Furyhunterhs> didn't get tog from myra's :/
+[1:49:46] <tictac_hs> 19 sounds like a lot
+[1:49:52] <tictac_hs> play harrison
+[1:49:57] <tictac_hs> Never harrison :/
+[1:49:58] <UbererHS> 19 is a big number
+[1:50:07] <dale1337> How is p4wnyhof not in GM???
+[1:50:09] <Furyhunterhs> ok maybe it was 20
+[1:50:10] <draylors> missed shadow step bm
+[1:50:10] <Furyhunterhs> you can q
+[1:50:23] <UbererHS> 20 is even larger than 19
+[1:50:27] <UncleDrewOnMe> why cant you be like bunnyhopper FeelsBadMan
+[1:50:31] <Furyhunterhs> yes it was at least 19
+[1:50:35] <plbrta> that is indeed a head scratcher @dale1337
+[1:50:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[1:50:38] <Furyhunterhs> I don't remember if I stepped any
+[1:50:52] <Furyhunterhs> only that I had a scheme of 12 and later one of 5 (got it from a lackey)
+[1:50:53] <tictac_hs> Did you still lose ?
+[1:50:58] <Furyhunterhs> yes :)
+[1:51:03] <tictac_hs> PepeLaugh
+[1:51:05] <Flopsyde> :)
+[1:51:14] <Furyhunterhs> it was a close game :(
+[1:51:22] <tictac_hs> That's why you shouldn't play anything else than warrior
+[1:51:22] <dale1337> Thank you! @furyhunterhs
+[1:51:38] <Furyhunterhs> for what? monkaS
+[1:51:56] <tictac_hs> For giving an amazing viewer experience :p
+[1:52:05] <UncleDrewOnMe> how do you pronounce this guy's name
+[1:52:15] <Furyhunterhs> @tictac_hs I'm trying to learn ok :( I like this funky rogue deck that does stupid stuff
+[1:52:15] <draylors> yay practice vs zoo Kappa
+[1:52:40] <tictac_hs> @Furyhunterhs You should play double faceless Zihi warrior instead :)
+[1:52:41] <FlxFunky> its means internet for 50$
+[1:52:43] <N0toriousDim> clipped Kappa
+[1:52:51] <Furyhunterhs> @tictac_hs later
+[1:53:09] <wakemeupb4yougogo> is this still hearthstone?
+[1:53:19] <tictac_hs> @Furyhunterhs Don't forget Hakkar btw, so you can fuck these otk pala / mecha'thun people :D
+[1:53:28] <Furyhunterhs> :)
+[1:53:32] <tictac_hs> 1 mana Hakkar is actually better than I thought
+[1:53:38] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[1:54:00] <tictac_hs> TAAAAAAAAAAAKEEEEEEEE ON MEEEEEEEEEEEEEEEEE
+[1:54:02] <tictac_hs> TAKE ON ME
+[1:54:06] <tictac_hs> TAKE ME ONNNNNNNNNNNNNNNNNNNNNn
+[1:54:08] <tictac_hs> TAKE ON ME
+[1:54:10] <Furyhunterhs> TAKE ME OOOOOOOOOOOOONNNNNN
+[1:54:14] <Flopsyde> he just wanted to play a nice game of hearthstone PepeHands
+[1:54:33] <tictac_hs> I pepeJAM irl to this song
+[1:55:05] <plbrta> poltos just means 50, the first part puzzles me. But doesn't seem to be obscene. unless ofc it's not Russian at all
+[1:55:51] <TakeTheMick> mirror the rafaam Pog
+[1:57:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[1:57:08] <tictac_hs> monkaHmm
+[1:57:14] <tictac_hs> pepeJAMJAM
+[1:57:17] <tictac_hs> pepeJAM
+[1:57:34] <UbererHS> LETHAL
+[1:57:53] <UbererHS> just pyro LOL
+[1:58:28] <tictac_hs> Pog
+[1:58:32] <reqvam> Pog
+[1:58:34] <bad_player_bad_plays> EZ
+[1:58:36] <bluegamerdkbest> hello
+[1:58:40] <draylors> boarPositive ?
+[1:58:56] <UbererHS> does viper play rafaam in any decks? or all of them?
+[1:58:58] <TakeTheMick> zoo is never favored
+[1:58:59] <Cnoko> ETA on your game in GM?
+[1:59:00] <tictac_hs> Very good lines that game boar :)
+[1:59:11] <Flopsyde> frost nova getting hall of famed cause of this, I hope you're proud
+[1:59:27] <draylors> 4h @cnoko , somewhere around there
+[1:59:29] <reqvam> in 4 hours eoughly iirc @cnoko
+[1:59:34] <reqvam> roughly*
+[2:00:30] <HaiSayaka> @tictac_hs Pog
+[2:00:36] <HelixFossil89> information wars monkaS
+[2:00:38] <tictac_hs> @HaiSayaka HeyGuys
+[2:00:51] <draylors> hah, toast qualified for Seoul boarPog
+[2:00:53] <HaiSayaka> HeyGuys
+[2:00:57] <TakeTheMick> turn the fkin frogs gay
+[2:00:57] <tictac_hs> California Kreygasm
+[2:01:32] <goodlakis> homooo
+[2:02:02] <Kraslee> HALLO hOMOOOO
+[2:02:15] <Tweazz_> hey fury can u show ur rogue deck :D
+[2:02:21] <zogg7> I agree on hoping we draw giant
+[2:02:38] <tictac_hs> This hand feels like a jump
+[2:02:46] <Furyhunterhs> @Tweazz_ AAECAaIHCLICrwSQB/MM5/oCoIADr5EDkpcDC7QBnALtAs0DiAfdCIYJ7/ECtIYDtJEDj5cDAA==
+[2:02:53] <Tweazz_> <3
+[2:03:08] <Furyhunterhs> be careful, it's broken :)
+[2:03:17] <Tweazz_> ^^
+[2:03:21] <tga1k3li> why swing? harrison 1draw seems ok
+[2:04:09] <zogg7> is novice busted? @Furyhunterhs
+[2:04:19] <Furyhunterhs> yes it's broken
+[2:04:26] <Furyhunterhs> needs nerf
+[2:04:33] <tictac_hs> supercollider still beats you
+[2:04:34] <Zeon0> 6/6 6/7 7/7
+[2:04:41] <zogg7> ok I'll believe you
+[2:04:47] <tictac_hs> Yup there it is
+[2:05:22] <tictac_hs> Uh okay nvm he is quite low
+[2:06:11] <HelixFossil89> why did he do 1 damage to a 0/1 instead of 2 damage
+[2:06:19] <nickvreter> havent heard this dad music in soo long :O
+[2:06:31] <Copar11111> Pog
+[2:06:31] <hen_game_> 200iq Pog
+[2:06:39] <momopenguino> POGGERS
+[2:06:44] <CharString88> Nooo
+[2:06:46] <draylors> Oi boar
+[2:06:47] <nickvreter> PepeHands skip
+[2:06:49] <triharding_to_get_a_name> Pog
+[2:06:53] <draylors> noooooooooooooooooooooo
+[2:07:05] <CharString88> I have great memories of that Fleetwood Mac song
+[2:07:14] <nickvreter> play some genesis @BoarControlHS
+[2:07:22] <draylors> pfffffft streamer thinks he's in control here Kappa
+[2:07:23] <CharString88> Lost my virginity on it
+[2:07:44] <CharString88> Summer of '92
+[2:07:45] <hen_game_> nice.
+[2:07:59] <TakeTheMick> cool story
+[2:08:01] <RadicalMeno1> nice
+[2:08:02] <nickvreter> well, this music is crap. ima take a crap
+[2:08:03] <UbererHS> hey boar we need a boarThinking emote
+[2:08:08] <ryanzx> noballs
+[2:08:17] <CharString88> Olympic Games in Barcelona
+[2:08:24] <Flopsyde> 4House
+[2:08:26] <TakeTheMick> LUL
+[2:08:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[2:08:56] <Kiixxx> @BoarControlHS what do you think about Jepetto bomb warrior for ladder ?
+[2:09:03] <UbererHS> boarHead would be great just for the name tbh
+[2:09:17] <nobody_knows_best> hi diviEnergy
+[2:09:26] <UbererHS> VoHiYo
+[2:10:07] <CharString88> Blitzchung wrecked 2 mages 2:0 this weekend.
+[2:10:20] <draylors> on what deck?
+[2:10:28] <CharString88> Midrange
+[2:10:38] <zogg7> oof
+[2:10:40] <GROUCHEE> D:
+[2:10:40] <GosuDucky> I hate the meta now that tempo rogue is gone. @BoarControlHS what decks should I be looking at?>
+[2:10:54] <Cnoko> i somehow completely ignored the buff unexpected results is getting
+[2:11:00] <UncleDrewOnMe> spcboif
+[2:11:03] <UncleDrewOnMe> apxvoid*
+[2:11:19] <GROUCHEE> apxboif LUL
+[2:11:25] <ElectricLawnMower> reynad could
+[2:11:25] <CharString88> The searchspace for this mage deck is too large for perfect play
+[2:11:45] <CharString88> so many discoveries
+[2:12:28] <zogg7> a 3/3 yeah
+[2:12:35] <zogg7> rather than a 3/4
+[2:12:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[2:13:55] <zogg7> oh I was talking about the game where casie coined goblin into goblin but yeah
+[2:15:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[2:15:36] <CharString88> Wow can you teach us?
+[2:15:38] <Kraslee> what you laugh
+[2:15:40] <draylors> so modest too
+[2:15:40] <Kraslee> for
+[2:15:52] <LaMooN_> do you think this deck is the best mage deck right now ? @BoarControlHS
+[2:16:21] <Kraslee> you are a f highroller so
+[2:16:49] <draylors> haha
+[2:17:01] <UncleDrewOnMe> how has snap freeze been performing
+[2:17:27] <Furyhunterhs> my current version of rogue is 9-2 4Head
+[2:17:52] <nobody_knows_best> LUL
+[2:17:53] <Furyhunterhs> yeah 0-1 vs mage :(
+[2:18:00] <Furyhunterhs> I just faced viper
+[2:18:05] <Furyhunterhs> he's not good or?
+[2:18:19] <Furyhunterhs> on bomb warrior
+[2:18:40] <Kraslee> mpaoylo xanter
+[2:18:46] <Furyhunterhs> I think he just plays what he wants when he streams
+[2:18:49] <zogg7> he was switching between them right
+[2:19:08] <zogg7> like he said he was going to play bomb warrior until 5 mins before deadline
+[2:20:20] <UncleDrewOnMe> could try frost bolt
+[2:20:36] <Thraun83> Is doomsayer bad on ladder?
+[2:22:46] <Kraslee> music Please
+[2:23:09] <TakeTheMick> @kraslee led zeppelin kashmir
+[2:23:11] <Furyhunterhs> will proud defender be the nuts now that miscreant is a 1/4 so it can trade it off? :)
+[2:23:16] <Draftbeer> pepeJAM
+[2:23:27] <Draftbeer> rainbow KappaPride
+[2:23:30] <yolokappaswag> @boarcontrolhs what's the best general strategy vs mech hunter?
+[2:23:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[2:23:54] <Furyhunterhs> you're just a hater
+[2:24:16] <Draftbeer> @yolokappaswag, kill them before they kill you EZ
+[2:24:19] <CharString88> @yolokappaswag Kill their stuff and hope they don't have mechzodia combo
+[2:24:29] <kageyoshi12> Sale picko
+[2:24:42] <kazarothTW> Out tempoed
+[2:24:46] <Thraun83> Yup got smorced
+[2:25:05] <Kraslee> can i post a song ? if you like it let it play ? :)
+[2:25:19] <kazarothTW> Commander into dyno into shield block shield slam. Perfect draws
+[2:25:26] <Draftbeer> what are the chances
+[2:25:28] <pengrboi> defile lethal :)
+[2:25:32] <nobody_knows_best> LUL now warpath warrior, come on
+[2:25:41] <Phoenyx_Sam> Hi all! The stream is early today PogChamp
+[2:25:58] <Olldontz> start pinging
+[2:25:59] <Thraun83> Maybe he’ll warpath yo.....
+[2:26:02] <plbrta> I wouldn't care for my sad top200 climb, warpath is a must here
+[2:26:06] <Kraslee> @BoarControlHS can i post a song ?
+[2:26:11] <withalotofsalt> what if he just passes here?
+[2:26:13] <HelixFossil89> BabyRage
+[2:26:27] <Draftbeer> just ping them 8 times each
+[2:26:28] <abracadani> need the pyro tech
+[2:26:36] <Draftbeer> 4House
+[2:26:42] <Thraun83> Can always kill your own mirrors with frost if needed space
+[2:26:52] <HelixFossil89> or geddon
+[2:26:55] <Draftbeer> i believe Pog
+[2:27:05] <marston74> Your playlist is too good @BoarControlHS
+[2:27:07] <Cnoko> just generate a few blast waves
+[2:27:15] <Thraun83> Baron geddon maybe too
+[2:27:18] <Kraslee> @BoarControlHS boar, paly this song please , https://www.youtube.com/watch?v=u9sTHE3QKyw
+[2:27:30] <Kraslee> 1 of my fav
+[2:27:33] <Phoenyx_Sam> geddon would be sweet here
+[2:27:38] <nobody_knows_best> never seen a bad outcome like this quad turret NotLikeThis
+[2:27:56] <magenta1004> TPFufun TPFufun
+[2:27:59] <Chaozhax> hello folks :)
+[2:28:07] <zogg7> ping one
+[2:28:11] <CharString88> Let's dance to Joy Division
+[2:28:17] <bad_player_bad_plays> synergy Pog
+[2:28:24] <buryadi> the worst thing about this mage is minion limit on board
+[2:28:27] <Phoenyx_Sam> slowly getting there
+[2:28:28] <pengrboi> PogU
+[2:28:32] <zogg7> he cant warpath you
+[2:28:34] <Thraun83> Hey we got the turret activator!
+[2:28:55] <plbrta> we had Turrette's haHAA
+[2:29:06] <Draftbeer> imagine a good minion instead of Gunspire
+[2:29:26] <draylors> yeah but apart from that it's going perfectly boarPositive
+[2:29:46] <Phoenyx_Sam> slowly but surely banana it
+[2:30:22] <Draftbeer> pepeJAM
+[2:30:29] <pengrboi> pepeJAM
+[2:30:46] <CreativeClaws> ! uptime
+[2:30:51] <CreativeClaws> !uptime
+[2:30:52] <StreamElements> @CreativeClaws, boarcontrolhs has been streaming for 2 hours 31 mins
+[2:30:59] <CreativeClaws> POG
+[2:31:09] <derek360fader> @BoarControlHS top 3 decks right now?
+[2:31:16] <Phoenyx_Sam> who sad its a bad outcome
+[2:31:18] <plbrta> the prophecy comes true at last
+[2:31:18] <Phoenyx_Sam> said
+[2:31:30] <Draftbeer> trash
+[2:31:35] <Chaozhax> priest warlock druid
+[2:31:48] <Cnoko> wtf was that play
+[2:31:59] <Cnoko> does he set up collider?
+[2:32:24] <CharString88> Shouldn't you banana the gunspire to play around 2nd warpath Kappa
+[2:32:34] <Draftbeer> boar smart
+[2:32:50] <draylors> he took 15 to clear 7/8, heh
+[2:33:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[2:33:27] <kazarothTW> Why play mirror image? Weak to brawl?
+[2:34:35] <KeepOutIV20> what app is he using to track decks, show damage etc
+[2:34:38] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[2:34:39] <kazarothTW> I guess it protects against zilliax for a turn
+[2:35:19] <fuzzyduck44> Needed more Turrets to win that one :)
+[2:35:28] <Draftbeer> :)
+[2:35:34] <zogg7> what's the best 7?
+[2:35:42] <Phoenyx_Sam> theres even a mobile version of it to my surprise called arcane tracker
+[2:35:43] <ElectricLawnMower> @keepoutiv20, https://hsreplay.net/downloads/
+[2:36:03] <Draftbeer> more warriors Pog
+[2:36:42] <Furyhunterhs> this guy was 70 when I faced him PepeLaugh
+[2:37:05] <Infamouzx> Double sea giant DansGame
+[2:37:14] <Phoenyx_Sam> 70 years old?
+[2:37:20] <Furyhunterhs> yes
+[2:37:28] <Furyhunterhs> definitily 70 years old
+[2:38:19] <Furyhunterhs> weapons project is just so you think he doesn't have supercollider and then he actually has it
+[2:38:31] <HelixFossil89> ss coin ss
+[2:38:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[2:38:48] <Furyhunterhs> I would have played it like that :)
+[2:39:03] <Phoenyx_Sam> politesniper is a russian guy or at least russian speaking
+[2:39:19] <CharString88> Warrior's cat walked over the keyboard... Can't be he didn't have any removal
+[2:39:37] <Chaozhax> snipe him PepeLaugh
+[2:39:38] <IdanProK> he is russian and he is streaming
+[2:39:42] <Infamouzx> Politesniper is an oxymoron they are all rude
+[2:41:55] <Trapmoker_w00t> Warming up? GL at GMs this afternoon @BoarControlHS
+[2:42:28] <zogg7> !gm
+[2:42:28] <StreamElements> https://playhearthstone.com/en-us/esports
+[2:42:58] <Flopsyde> have you tried anton before ?
+[2:43:38] <HelixFossil89> woof
+[2:43:38] <N0toriousDim> EZ
+[2:43:51] <Phoenyx_Sam> 16 to the face
+[2:43:55] <Rutgert210> Freeze mage Pog
+[2:43:57] <Infamouzx> EZ
+[2:43:59] <aimmuschel> @aimmuschel is new here. Say hello! HeyGuys
+[2:44:09] <Phoenyx_Sam> what time is it in the UK?
+[2:44:25] <Infamouzx> He deserves to drop rank for playing control warrior
+[2:44:44] <shadyshadowshader> warrior not even that strong
+[2:45:02] <Phoenyx_Sam> yeah it loses to many decks actually
+[2:45:52] <Kiixxx> what would guys say best deck for ladder is right now ?
+[2:46:18] <Kiixxx> for 4-L
+[2:46:37] <Infamouzx> @kiixxx Mage
+[2:47:11] <Phoenyx_Sam> bomb warrior is pretty good probably
+[2:47:56] <Rutgert210> LULW
+[2:47:57] <RadicalMeno1> LULW
+[2:47:57] <Kiixxx> LUL
+[2:48:00] <pengrboi> OMEGALUL
+[2:48:00] <zogg7> oh yeah
+[2:48:07] <MaddoKawai> Those are cards
+[2:48:22] <Phoenyx_Sam> better get them on ladder than in GM
+[2:48:28] <Infamouzx> MingLee
+[2:48:31] <N0toriousDim> new cards Pog'
+[2:48:39] <fermee> i cant believe blackhowl gunspire is a legendary
+[2:48:41] <Infamouzx> Pinging towers to win pog
+[2:49:01] <Herkull> the synergy with hero power Kreygasm
+[2:49:02] <pengrboi> ???
+[2:49:13] <Rutgert210> wtf
+[2:49:14] <MaddoKawai> wombo combo
+[2:49:16] <eDead> the combo PogChamp
+[2:49:16] <Chaozhax> POGGIES
+[2:49:20] <Herkull> RIGGED
+[2:49:28] <Phoenyx_Sam> Geddon Kreygasm
+[2:49:36] <Infamouzx> MingLee MingLee
+[2:49:42] <MaddoKawai> They never have AOE here
+[2:50:03] <Rutgert210> Magnetize zilliax Kappa
+[2:50:09] <brunkovic> @BoarControlHS why you play around zero cards in a favorable matchup ?
+[2:50:30] <ierogliff> Grandmasters 9k - viewers. Thijs - 12k viewers. Nice and interesting new competitive format you got there, Blizzard, good job! SeemsGood
+[2:50:43] <MaddoKawai> favorable match-up SmugNep
+[2:50:49] <brunkovic> U think it wasnt good to wait ?
+[2:51:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[2:51:11] <fermee> yes wait :)
+[2:51:13] <brunkovic> LOL
+[2:51:15] <Phoenyx_Sam> its prob too early for grandmasters @ierogliff yesterday more ppl were watching it
+[2:51:17] <Infamouzx> LUL
+[2:51:20] <ominous0rangutan> he could dc for a turn Kappa
+[2:51:25] <pengrboi> just wait 3Head
+[2:51:34] <Herkull> Wheres Antonio ?
+[2:51:42] <ierogliff> @phoenyx_sam Yesterday Thijs wasn't streaming. LUL
+[2:51:44] <fermee> boom is too srtong for this meta
+[2:51:49] <Infamouzx> The 200 iq play was to wait Kappa
+[2:52:02] <Herkull> its another win condition tho
+[2:52:03] <brunkovic> wait for antonidas Kappa
+[2:52:26] <Phoenyx_Sam> Thijs is popular theres nothing to be done about that @ierogliff
+[2:52:55] <N0toriousDim> random spells win these Kapp
+[2:53:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[2:53:52] <fermee> what spells were you looking for
+[2:53:57] <Herkull> Antonio would monkaHmm
+[2:54:03] <ZukaHS> what a noob
+[2:54:04] <Phoenyx_Sam> i watched counterstrike tournament on twitch once there were like 200k live viewers
+[2:54:28] <N0toriousDim> tony is a bait
+[2:54:48] <Infamouzx> @fermee 6 fireballs
+[2:54:55] <KeepOutIV20> deck working good. from rank 3 to rank 1 3 stars in 45min :D
+[2:54:59] <Flopsyde> @Phoenyx_Sam some finals of majors are like almost a million
+[2:55:16] <crowriot> is the solo adventure worth the 2.8k gold?
+[2:55:42] <N0toriousDim> @KeepOutIV20 you jinxed it now, you ll never get past the final boss :(
+[2:55:48] <ierogliff> @phoenyx_sam I'm totally OK with Thijs, good guy and well deserved, but if official Grandmasters League stream can't get more viewers than one popular streamer, it means this competitive format is pure joke. LUL
+[2:56:14] <Herkull> gachiGASM
+[2:56:15] <GosuDucky> @crowriot it gives 15 pakcs but thats it
+[2:56:24] <ZukaHS> boar,can you please win today ?
+[2:56:34] <KeepOutIV20> monkaThink
+[2:56:36] <Chaozhax> @crowriot it is, it has alot of variations every single run
+[2:56:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[2:56:46] <N0toriousDim> i barely know the NA ones monkaS
+[2:56:56] <Kiixxx> neither
+[2:56:56] <Phoenyx_Sam> solo adventure can bring 15 RoS packs 1 golden classic pack and 1 golden legendary is it worth 2.8k gold? idk
+[2:57:19] <Kiixxx> not really
+[2:57:29] <crowriot> ty guys. just on the fence if i should buy it ... but probably safe the gold for next expansion
+[2:57:32] <새벽달빛향기> Bokuwa chinese hentai des
+[2:57:34] <ierogliff> I'd rather watch @boarcontrolhs Kappa
+[2:57:57] <ZukaHS> i wanna see a boar interview,with gm live we get to see so little of Billy
+[2:58:13] <Phoenyx_Sam> im playing it i did 2 chapters im just not going to buy it with real money
+[2:58:25] <Garnix_99> @BoarControlHS where are you from?
+[2:58:32] <Phoenyx_Sam> !iowa
+[2:58:32] <StreamElements> Boar lives in Des Moines, Iowa. His accent is faked to prevent people from knowing where he's actually from. In his spare time Boar enjoys such fun Iowa activities as looking at corn, and, talking about corn. Ask him about his favorite corn-related topics!
+[2:58:36] <crowriot> yeah i meant like not money wise really. but is it actually fun or just triggering cause opponents are just overpowered etc
+[2:59:21] <altestadores> he is playing 2 years ago meta i would love to do so
+[2:59:23] <ierogliff> @zukahs I prefer Kolento's interviews. He makes casters look so stupid. SeemsGood
+[2:59:38] <새벽달빛향기> @boarcontrolhs btw Do you think galaxy pockret would be used in miraclemage after buff??
+[2:59:45] <GosuDucky> @BoarControlHS have you played any wow?
+[3:00:05] <Phoenyx_Sam> its pretty much the same experience as dungeon runs i did both chapters from the first attempt but it was ok to play not very interesting but ok
+[3:00:28] <Phoenyx_Sam> maybe heroic mode is better
+[3:01:04] <crowriot> thx
+[3:01:21] <shadyshadowshader> @Phoenyx_Sam It wasn't even as much fun as last time, only good thing is the bartender. its fucked up you have to "unlock" the other hero-powers und stuff first
+[3:01:25] <Garnix_99> why arent you listening to the original song?
+[3:02:11] <zogg7> boar netdecks his playlists almost as much as his decks
+[3:02:32] <Phoenyx_Sam> yeah bartender is a new encounter u can modify ur deck a little there
+[3:04:44] <Phoenyx_Sam> i will start watching when EU starts
+[3:05:10] <catch22__> ded
+[3:05:44] <Phoenyx_Sam> i barely know asia pasific guys
+[3:06:11] <fermee> frostee's internet died?
+[3:06:49] <fermee> the channnel posted in the chat that his internet died and he was able to reconnect but lost
+[3:06:54] <Minks__> tactical disconnect LUL
+[3:07:06] <bad_player_bad_plays> HACKERMANS
+[3:07:13] <zogg7> It was his screen freezing up/going black not internet related.
+[3:07:17] <reqvam> australian internet monkaS
+[3:07:22] <zogg7> thats what they said
+[3:07:28] <Phoenyx_Sam> also it is too exhausting to watch all the matches os i have to choos which ones to watch and eu is the most intersting for me
+[3:08:13] <fermee> why do we always get pog galaxy
+[3:08:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[3:08:49] <fermee> the curse of frostee
+[3:09:02] <Minks__> 7 mana galaxy LUL
+[3:09:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[3:09:45] <Phoenyx_Sam> is rogue really dead? or its only dead competitive wise?
+[3:10:11] <Minks__> krea hit top 10 with miracle list
+[3:10:55] <nobody_knows_best> LUL RNG wins
+[3:11:08] <Herkull> low skill boar
+[3:11:20] <jesuis1> let's get doomsayer again :)
+[3:11:26] <我是祥哥> GG
+[3:11:55] <nobody_knows_best> this shaman draw NotLikeThis i would sell my soul to get it once
+[3:12:18] <fermee> thats a low price for your soul
+[3:12:51] <arcustan> Selling your soul for winning one game of HS monkaS
+[3:13:14] <nobody_knows_best> explain that plz :) @joni13271
+[3:13:23] <Herkull> knock knock knocking on the dumpsters door
+[3:13:31] <Phoenyx_Sam> the thing is that ppl usually notice their unlucky moments and dont appreciate when they get lucky which happens much more often then they think
+[3:13:43] <arcustan> @Phoenyx_Sam +1
+[3:14:39] <nobody_knows_best> a Virgin? no dude :) oh ok
+[3:15:12] <fermee> i dont like this deck for turns like this. midgame with no giants feels so awkward
+[3:15:14] <BlackForce_> is this deck favoured vs warrior
+[3:15:43] <Herkull> why you dont play shaman deck anymore? is it not good anymore?
+[3:15:56] <Maxis808> frre boar Pog
+[3:16:01] <Maxis808> free boar Pog
+[3:16:12] <Herkull> how did that happened,u were rank 3 i think with it
+[3:16:18] <Herkull> happen*
+[3:16:36] <nobody_knows_best> Boar will gain Mana Kappa
+[3:16:55] <Phoenyx_Sam> which shaman deck do u mean @Herkull big shaman or murloc shaman?
+[3:17:21] <BlackForce_> boom on 7 4Head BrokeBack
+[3:17:24] <Herkull> @Phoenyx_Sam eureka shaman with,big shaman i guess :P
+[3:18:20] <nobody_knows_best> Boar is VIP PogChamp
+[3:18:24] <Phoenyx_Sam> cuz Boar played murloc shaman too and was top 100 with it
+[3:18:35] <Herkull> warrior seems unbeatable with shitton of armor
+[3:18:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[3:19:27] <Slay4daysKappa> Had 2 gians and khadgar last 3 cards PepeHands
+[3:20:31] <Herkull> what is warriors win codition? outfatiguing and dr boom hero card for card generation? it feels like some other control deck could match it
+[3:20:48] <beepbeepbeep3> monkaThink
+[3:21:00] <TakeTheMick> no hero card can generate as much value as boom
+[3:21:09] <TakeTheMick> so warrior just wins every control mirror
+[3:21:11] <nejxo> why did he waste weapon on the shitty minions lol
+[3:21:35] <Herkull> yeah boom is bullshit card just as that omega card
+[3:21:57] <TopN0tchBanter> Hard nerfing rogue and not tocuhing boom/omega dev seems like a big misplay
+[3:21:58] <NigelTufnel> no worse than conjurer's calling
+[3:22:17] <kira_tz13> boom and devestator arent as op as conjurer s calling and mana cyclone and khadgar ..
+[3:22:31] <kira_tz13> mage got bunch of stulid cards
+[3:22:38] <nejxo> they are all aids cards
+[3:23:15] <nejxo> i hate warrior and mage kore than i hated rogue before ... this is way worse
+[3:23:20] <Phoenyx_Sam> i thin conj calling should not be a twinspell at the very least
+[3:23:23] <nejxo> more*
+[3:23:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[3:24:12] <kira_tz13> y 3 mana summon a 8/8 is enough what should it be summon 2 8/8s over two turns
+[3:24:23] <kira_tz13> why*
+[3:25:39] <kira_tz13> lol did u sfsly go for that.
+[3:26:16] <nobody_knows_best> omg how can people rope every turn with hunter NotLikeThis
+[3:26:28] <arcustan> Snipe Kappa
+[3:26:30] <kira_tz13> omg .. i was talking about removing twinspell nothing to do with ur hand ..
+[3:26:43] <kira_tz13> NotLikeThis NotLikeThis
+[3:27:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[3:27:38] <NigelTufnel> its a twinspell, and can get more of them with cyclone and magic trick. cube was cancer yet they made a card much, much worse
+[3:27:48] <arcustan> Balanced EZ
+[3:27:54] <kira_tz13> cheater
+[3:27:56] <FuryMiBr> fck amazing deck
+[3:28:10] <Samel_14> Deck codeB
+[3:28:13] <Darknezz11> GG EZ
+[3:28:15] <Rivys> &00% doesnt need a nerf
+[3:28:31] <NateR1v3r> !deck
+[3:28:31] <StreamElements> On the screen. Use the deck tracker overlay to copy the code.
+[3:28:50] <Samel_14> but I'm watching on mobile
+[3:28:58] <Samel_14> theres no deck tracker
+[3:29:10] <FuryMiBr> @BoarControlHS i have dust to craft one deck.... this is safe? or have one better atm?
+[3:29:21] <devlar0> exclamation mark mage
+[3:29:26] <devlar0> doesnt work :)
+[3:29:26] <ziggythegr8> ### Vs warrior # Format: Standard # Year of the Raven # AAECAf0ECNMBkAe4CJ7wAu72AqCAA+eVA5aaAwurBOYE4Qe8CMP4AsiHA9KJA4OWA5+bA+KbA/+dAwA= # # To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+[3:29:27] <kazarothTW> Whats the server thing?
+[3:29:36] <kira_tz13> the poor guy summoning his 3 mana 4/4 while u are playing two 7/8 taunts with three mana LUL LUL
+[3:29:41] <kira_tz13> looks Fair
+[3:29:48] <therealejdm> !deck
+[3:29:48] <StreamElements> On the screen. Use the deck tracker overlay to copy the code.
+[3:29:50] <NigelTufnel> remember when 4 mana 7/7 was op? PepeHands
+[3:30:40] <kazarothTW> Curving into 4 mana 7/7 would still be very strong
+[3:30:40] <s3rsetin> mage is not hard to play paladain and rogue are the really hard ones
+[3:30:46] <UbererHS> antonidas is in our deck again boarS
+[3:31:12] <kira_tz13> xD he said rogue is hard to play
+[3:31:20] <UbererHS> yeah well antonidas sucks boarRage
+[3:31:29] <kira_tz13> i dont remember when going FACE was hard LUL LUL
+[3:31:53] <NigelTufnel> oh look an additional calling
+[3:32:03] <NigelTufnel> 6 sounds good Kappa
+[3:32:06] <FuGaskin> ЧЕЧНЯ УХУУУУУУ
+[3:32:22] <Phoenyx_Sam> Viper boarPog
+[3:32:26] <Mark_Porter> mind games host WaitWhat
+[3:32:37] <fozzie4> you should wish him good luck
+[3:32:53] <viper__hs> @Mark_Porter yeah boar is gonna forget the game now and just keep streaming ;)
+[3:33:03] <kira_tz13> this how rogue looks like : pick the weapon FACE SMOrc Drop leeroy : FACE SMOrc shadostep leeroy : FACE .. Oh wait it lookd like hes dead SMOrc SMOrc
+[3:33:08] <Mark_Porter> LULW LULW
+[3:33:42] <UbererHS> viper you just know you cant beat boar in a fair match :/
+[3:34:03] <Takitdown> didn't luna on curve FeelsWeirdMan
+[3:34:25] <NigelTufnel> justice
+[3:34:25] <TakeTheMick> a8
+[3:34:35] <N0toriousDim> AYAYA ?
+[3:34:45] <Phoenyx_Sam> theres no cuh thing as a fair match in HS thats why its so interesting FeelsGoodMan
+[3:34:45] <jungl5man3> it was bad since you were punished
+[3:34:48] <TakeTheMick> argual
+[3:34:51] <CptnKitty> Why play raven over conjure?
+[3:34:54] <Phoenyx_Sam> such
+[3:35:00] <Darknezz11> too many good cards in mage NotLikeThis can't pick
+[3:35:48] <kazarothTW> Pocket
+[3:35:55] <kazarothTW> Into Arugal intellect
+[3:36:18] <Phoenyx_Sam> like whats fair in mage generating a board with khadgar and conj calling or in dr boom
+[3:36:25] <Flopsyde> pepeJAM
+[3:36:28] <eggywest> @BoarControlHS Do you think 5 mana Pocket Galaxy will see play?
+[3:36:29] <nekemmindegy> if pocket galaxy was 5 mana...
+[3:36:40] <kazarothTW> Get tempo back from 4x 1 cost minimal s :)
+[3:36:44] <kazarothTW> Minions
+[3:36:44] <Furyhunterhs> Staz won a series in GM :O only took his opponent dc'ing in a favorable spot and then he got the win xD
+[3:36:52] <bigbluebottle> BrokeBack vs BrokeBack
+[3:36:59] <NigelTufnel> it's crazy to me that blizz didn't see that crazy otk combo with the new mech card, so had to nerf experimenter at the same time
+[3:37:13] <BlackForce_> 5 minions left LUL
+[3:37:24] <TakeTheMick> tony left tho
+[3:37:37] <Furyhunterhs> wait are they gonna nerf it? @NigelTufnel
+[3:37:42] <Furyhunterhs> did they announce that?
+[3:37:44] <arcustan> jup
+[3:37:49] <NigelTufnel> yup
+[3:37:54] <Furyhunterhs> how are they gonna nerf it?
+[3:37:55] <Darknezz11> yes
+[3:37:57] <Jakaso27> Did hunterace win yesterday
+[3:38:03] <arcustan> not below 1 mana
+[3:38:08] <CptnKitty> Experimenter cant reduce below 1 now
+[3:38:15] <Flopsyde> @Jakaso27 y
+[3:38:16] <NigelTufnel> Added Text: "Cost can't be reduced below 1"
+[3:38:17] <Furyhunterhs> oh
+[3:38:19] <Takitdown> he did @Jakaso27
+[3:38:20] <FudoV> @Furyhunterhs sae thing as warlock portal(not below 1 mana)
+[3:38:29] <Jakaso27> Hunterace is on my fantasy team
+[3:38:36] <Furyhunterhs> I was excited about killing my opponents turn 5 with infinite dmg :/
+[3:38:37] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[3:38:44] <Fr0g3n> where is ure flames trike now
+[3:38:44] <Furyhunterhs> @Jakaso27 he did
+[3:38:46] <Phoenyx_Sam> theres an article on hstopdecks about it today @Furyhunterhs
+[3:38:49] <NigelTufnel> lol I think we all were
+[3:38:53] <kazarothTW> Draw flamestrike
+[3:38:56] <CptnKitty> @Furyhunterhs can still do it in wild SoBayed
+[3:39:22] <Furyhunterhs> wild PepeLaugh
+[3:39:34] <FudoV> i think wild is fine
+[3:39:35] <NigelTufnel> just need a mechwarper to stick, right?
+[3:39:35] <Jakaso27> My fantasy team is staz shaxy hunterace and Tyler
+[3:39:44] <FudoV> aside of he part that very single deck thee is cancer
+[3:39:49] <FudoV> except rogue
+[3:39:54] <Furyhunterhs> I have Frostee on mine @Jakaso27 ..
+[3:40:00] <kira_tz13> lol he needed 5 turns to build this shitty board and look what did u buikd in one turn .. looms Fair
+[3:40:05] <CptnKitty> @Furyhunterhs imagine a format where the best deck gets a 1 mana draw two PepeLaugh
+[3:40:18] <Jakaso27> Staz lost 2 favorables last week :/
+[3:40:31] <Furyhunterhs> yeah and he won now vs Frostee cause Frostee dc'ed xD
+[3:40:37] <StreamElements> Follow BoarControl for decklists and updates on tournaments! https://twitter.com/BoarControl
+[3:40:46] <bigbluebottle> Imagine if every time someone finds out something broken in game, Blizzard nerfs it
+[3:40:47] <Darknezz11> PogChamp two
+[3:40:50] <Phoenyx_Sam> do pro players watch all GM matches?
+[3:40:52] <Furyhunterhs> @CptnKitty I think you're drunk
+[3:41:24] <Rutgert210> Shots LULW
+[3:41:24] <gidonidavide> !deck
+[3:41:25] <StreamElements> On the screen. Use the deck tracker overlay to copy the code.
+[3:41:26] <zogg7> wow u went there
+[3:41:26] <Jayjajy> Banana Nozari ping into Omega and Mechathun into the 6/8 would have done it
+[3:41:31] <bigbluebottle> Amurcan players are better KKona
+[3:41:35] <N0toriousDim> Oof
+[3:41:47] <kazarothTW> Shots fired
+[3:42:00] <CptnKitty> @Furyhunterhs does sleep deprivation count as the same Keepo
+[3:42:14] <UbererHS> LETHAL
+[3:42:24] <Furyhunterhs> I guess @CptnKitty I also suffer from that :)
+[3:42:38] <bigbluebottle> Is this the same match from 20 minutes ago?
+[3:42:47] <ziggythegr8> !allin
+[3:42:49] <CptnKitty> FeelsOkayMan
+[3:42:56] <vereshkin67> BOB
+[3:43:08] <BlackForce_> bigbluebottle yes
+[3:43:29] <Vishtiga> why did you need to go all in there? You were already at lethal damage?
+[3:43:31] <TakeTheMick> lethal
+[3:43:34] <Vishtiga> Isn't Harrison just over extending?
+[3:43:34] <TakeTheMick> ???????
+[3:43:38] <Minks__> missed lethal??
+[3:43:39] <Popred> WE WON LUL
+[3:43:43] <bigbluebottle> Conjure the taunt?
+[3:43:43] <ziggythegr8> vi von
+[3:43:52] <Furyhunterhs> smart play Boar
+[3:44:03] <CptnKitty> Not playing around 3rd brawl weSmart
+[3:44:05] <Darknezz11> We won, he didn't miss lethal guys
+[3:44:11] <reqvam> missed lethal DansGame
+[3:44:15] <ziggythegr8> there is a non zero chance that you will roll the same minion
+[3:44:17] <ps4vidyagamer> you only needed 4 conjurer's to win that game and still complained great work
+[3:44:19] <Furyhunterhs> I almost wrote why not conj his? but then I realized you're smart, gj Boar
+[3:44:19] <N0toriousDim> conj nozari was lethal :)
+[3:44:42] <bigbluebottle> Game suy?
+[3:44:50] <N0toriousDim> I almost wrote why not conj his? but then I realized you're smart, gj Boar
+[3:44:58] <Vishtiga> Boar salty? Well I never
+[3:45:07] <StreamElements> Join BoarControl's Animal Farm! https://discordapp.com/invite/boarcontrol
+[3:45:10] <datfrogger> : I almost wrote why not conj his? but then I realized you're smart, gj Boar
+[3:45:17] <Takitdown> Gm player needs cards to win games Pepega
+[3:45:22] <Darknezz11> I almost wrote why not conj his? but then I realized you're smart, gj Boar
+[3:45:34] <Popred> lol sick turn
+[3:45:40] <reqvam> yea I just ddos my opponents LULW @takitdown
+[3:45:49] <kazarothTW> Complains about deck doing exactly what it was designed to
+[3:46:09] <N0toriousDim> girl PepeHands
+[3:47:06] <Popred> why not go face for 2?
+[3:47:14] <Darknezz11> dr boom on kerv monkaS
+[3:47:20] <N0toriousDim> how come there is only control warriors post nerfs i thought it was gonna be the other way around monkaThink
+[3:47:59] <RadicalMeno1> warrior is only good cause of rogue guys monkaThink
+[3:48:11] <TakeTheMick> guess its the oldest deck that hasnt been nerfed
+[3:48:23] <catch22__> they are senfCLOWN
+[3:48:27] <TakeTheMick> and people wasted all their dust at the start of the expansion
+[3:48:39] <Popred> well no brawl at least
+[3:48:53] <Takitdown> people playing hecklebot in a giant meta makes my head hurt
+[3:49:22] <ElectricLawnMower> monkey win
+[3:49:30] <datfrogger> never punished BabyRage
+[3:49:41] <Vishtiga> gm plays FeelsGoodMan
+[3:50:16] <ju4n_sn0w> what is the counter for?
+[3:50:43] <ju4n_sn0w> nm i see
+[3:50:46] <datfrogger> value bull dozer Pog
+[3:51:00] <joker171501> would u play a card that draws ur hero card
+[3:51:04] <ju4n_sn0w> spells cast
+[3:51:23] <SlicingIce> the English education system failed him LUL
+[3:51:53] <UbererHS> ORDER LUL
+[3:52:19] <Darknezz11> khadgar PepeHands
+[3:52:53] <NigelTufnel> they need to make calling either 4 mana so magic trick can't discover it or remove twinspell
+[3:52:53] <martiancamelus> EZ
+[3:53:18] <Takitdown> where is that complaining about 4 conjurer guy? LUL
+[3:53:38] <StreamElements> BoarControl is now on Youtube! For stream highlights and guides subscribe! https://goo.gl/XBMNoi
+[3:53:39] <datfrogger> only won cause of 5 conjurers LUL
+[3:53:42] <Darknezz11> top 100 stream
+[3:53:44] <Darknezz11> Pog
+[3:53:47] <jungl5man3> soy un perdedor 4House
+[3:54:00] <kazarothTW> @nigeltufnel you are talking about just removing Mage from the meta entirely
+[3:54:07] <kazarothTW> It’s supposed to beat warrior
+[3:54:47] <datfrogger> conj is op
+[3:54:53] <Takitdown> lets not pretend conjurer is fine
+[3:55:22] <kazarothTW> Conjure is fine
+[3:55:26] <ElectricLawnMower> going second atleast
+[3:55:31] <kazarothTW> It’s a build around card
+[3:55:32] <IdanProK> it is fine
+[3:55:47] <kazarothTW> Absolute max nerf it will ever get is increase to 4 mana
+[3:55:58] <Darknezz11> Dr.Boom is fine too :)
+[3:56:14] <kazarothTW> Agreed
+[3:57:40] <Phoenyx_Sam> conj might be fine but this interaction with mountain giant where it gets grave horror almost for sure is not fine
+[3:57:59] <patchestheocelot> sick deck, also new order is my jam
+[3:58:01] <Kunizial2> in theory they could make conj to summon "devolved" minions, aka 1 less mana instead of same mana
+[3:58:22] <Kunizial2> i doubt they'll make that, but that could be a fine nerf
+[3:58:38] <datfrogger> blizzard only knows how to up or decrease 1 mana
+[3:58:51] <xardass_> twice?
+[3:59:10] <Kunizial2> sometimes they increase attack/health too @datfrogger
+[3:59:17] <yuninja8> Hello! from Japan🇯🇵
+[3:59:22] <NigelTufnel> turn 6 board BTW
+[3:59:25] <datfrogger> true
+[3:59:29] <datfrogger> card text too hard though Pepega
+[3:59:41] <Phoenyx_Sam> hi @yuninja8
+[3:59:52] <Darknezz11> warsong commander PepeHands
+[3:59:55] <milosz27> but they changed prep's text:)
+[3:59:55] <yuninja8> @phoenyx_sam Hi😄
+[3:59:56] <PIZZAPARTY_HS> unless it's giving your charge minions +1 Kappa
+[4:00:27] <vittuilevakorppi> @datfrogger they nerfed yogg effect tho
+[4:00:28] <NigelTufnel> turn 7 board BTW
+[4:00:34] <arcustan> Why does he take the hit tho LULW
+[4:00:35] <TakeTheMick> @BoarControlHS do you think 3 mana equality would have been a problem cuz of odd pala
+[4:00:38] <NigelTufnel> this is broken as fuck LUL
+[4:00:55] <finet22> !list
+[4:00:58] <catch22__> no PepeHands
+[4:00:58] <TakeTheMick> good luck
+[4:01:01] <arcustan> Anyways PepeHands
+[4:01:03] <Darknezz11> anyways
+[4:01:04] <finet22> !code
+[4:01:05] <datfrogger> knock it out of the park
+[4:01:08] <Takitdown> good luck my boar
+[4:01:08] <Phoenyx_Sam> good luck
+[4:01:08] <UbererHS> gl viper
+[4:01:09] <finet22> code please
+[4:01:10] <Takitdown> *mr
+[4:01:15] <jungl5man3> gl
+[4:01:17] <NigelTufnel> kick some ass dude
+[4:01:19] <catch22__> good luck
+[4:01:21] <rixieum> gl
+[4:01:22] <UbererHS> i grant you luck boar
+[4:01:24] <jungl5man3> dont embarass your chat
+[4:01:25] <viper__hs> thx uberer
+[4:01:29] <PIZZAPARTY_HS> break a leg
+[4:01:32] <datfrogger> take our energy
+[4:01:33] <patekk9> gl
+[4:01:34] <Chaozhax> host me :)
