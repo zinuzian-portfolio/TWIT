@@ -70,6 +70,9 @@ def getFollows(user_id, from_to):
         pagination = response_dict["pagination"]
     return follows
 
+def getApikey():
+    return API_KEY
+
 # test code
 # get top 500 follows list of thijs (heartstone streamer) 
 #print(getFollows('57025612','to'))
