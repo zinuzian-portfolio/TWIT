@@ -70,6 +70,9 @@ def getFollows(user_id, from_to):
         pagination = response_dict["pagination"]
     return follows
 
+def getApikey():
+    return API_KEY
+
 def get_id_by_name(name):
     url = "https://api.twitch.tv/helix/users?login=" + name
     header = {'Client-ID': API_KEY}
