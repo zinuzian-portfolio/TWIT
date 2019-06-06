@@ -2,6 +2,7 @@
 # 현재 : 유저목록과 팔로워 목록 교집합 구하기->퍼센트 출력, 교집합 목록 정민이게 전달
 
 from api.apiHandler import getFollows
+from api.apiHandler import get_id_by_name
 
 
 '''
@@ -21,7 +22,8 @@ def intersect(dictionary, mode=1):
         # TODO 호출필요
         # if from_to == "from", get ids 'user following'
         # if from_to == "to", get ids 'following user'
-        followers = getFollows(streamer, from_to="from")
+        streamerID = get_id_by_name(streamer)
+        followers = getFollows(streamerID, from_to="from")
         # ['abc', 'a1', ...]
 
         intersect = list()

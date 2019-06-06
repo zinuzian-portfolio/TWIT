@@ -1,10 +1,26 @@
 import sys
+from IR.vectorizer import vectorize
+from IR.query import get_query, similarity_ranks
+
+
+def makeStreamersVectors():
+
+    # <Prerequisite>
+    # Make streamers vectors and save it as a text file
+
+    std, streamerInfo = vectorize()
+    print(streamerInfo)
+    print(std)
 
 
 def main():
     # example) python main.py <streamer's name>
     #               (argv[0])   (argv[1])
     print('Your input is ', checkArgument(sys.argv))
+
+    # <Prerequisite>
+    # Make streamers vectors and save it as a text file
+    makeStreamersVectors()
 
     # 1. Read streamer's vectors from a text file
     # 2. Check if the input streamer is one of them
