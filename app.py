@@ -1,4 +1,5 @@
 import sys
+import os
 from IR.vectorizer import vectorize
 from IR.query import get_query, similarity_ranks
 
@@ -8,9 +9,24 @@ def makeStreamersVectors():
     # <Prerequisite>
     # Make streamers vectors and save it as a text file
 
+    # 1. Get std and streamerInfo
     std, streamerInfo = vectorize()
     print(streamerInfo)
     print(std)
+
+    # 2. Get streamer's vectors
+
+    # 3. Save it
+
+    '''
+    f = open(os.path.join(os.getcwd(), "StreamerVectors.txt"), 'w')
+
+    for eachVector in streamerVector:
+        f.write(eachVector)
+    f.close()
+    '''
+
+    # No return
 
 
 def main():
