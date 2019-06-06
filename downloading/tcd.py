@@ -3,6 +3,7 @@ import os
 import sys
 import platform
 import requests
+from api.apiHandler import getApikey
 
 '''
     # tcd 를 사용하기 위해 셋팅이 필요
@@ -13,6 +14,7 @@ import requests
     # python3 setup.py build
     # sudo python3 setup.py install
 '''
+
 
 def getTwitchChat(videoID, savePath):
 
@@ -111,7 +113,7 @@ def readText(filename):
 
 def getStreamerName(videoId):
     # API요청을 보내기 위한 헤더
-    TWITCH_CLIENT_ID = "37v97169hnj8kaoq8fs3hzz8v6jezdj"
+    TWITCH_CLIENT_ID = getApikey()
     TWITCH_CLIENT_ID_HEADER = "Client-ID"
     TWITCH_V5_ACCEPT = "application/vnd.twitchtv.v5+json"
     TWITCH_V5_ACCEPT_HEADER = "Accept"
