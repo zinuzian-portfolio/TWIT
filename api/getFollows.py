@@ -70,6 +70,18 @@ def getFollows(user_id, from_to):
         pagination = response_dict["pagination"]
     return follows
 
-# test code
-# get top 500 follows list of thijs (heartstone streamer) 
-#print(getFollows('57025612','to'))
+def get_id_by_name(name):
+    url = "https://api.twitch.tv/helix/users?login=" + name
+    header = {'Client-ID': API_KEY}
+    response = http.request(
+        'GET',
+        url,
+        headers = header
+    )
+    response_dict = json.loads(response.data.decode('utf-8'))
+    data = response_dict["data"]
+    return data[0]["id"]
+
+# test get id by name
+# expected output: 57025612
+print(get_id_by_name("thijs"))
