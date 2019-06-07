@@ -3,11 +3,13 @@ from sklearn.feature_extraction import text
 from sklearn.decomposition import TruncatedSVD
 import os
 import re
+import numpy as np
 
 
 def vectorize():
     streamerInfo = dict()
     data_path = os.path.join(os.getcwd(), "data")
+    # data_path = os.path.join("..", "data")
 
     corpus = []
     print("Reading Chatlog", end=" ")
@@ -73,8 +75,23 @@ def vectorize():
 
     # delete the first element of streamerInfo since it is 'data':[]
     del streamerInfo['data']
+    print(streamerInfo)
 
-    return svd, streamerInfo
+
+    # To average svd result rows per streamer
+    streamerVector = {}
+    cnt = 0
+
+    for key in streamerInfo.keys():
+        num_of_chatlog = len(streamerInfo[key])
+        # print(key, num_of_chatlog, svd[cnt:cnt + num_of_chatlog])
+        # print(key, cnt, cnt + num_of_chatlog)
+        streamerVector[key] = np.divide(np.sum(svd[cnt:cnt + num_of_chatlog], axis=0), num_of_chatlog)
+        cnt += num_of_chatlog
+
+    # print(streamerVector)
+
+    return svd, streamerVector
 
 
 if __name__ == "__main__":
