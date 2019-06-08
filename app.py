@@ -2,6 +2,7 @@ import sys
 import os
 from IR.vectorizer import vectorize
 from IR.query import get_query, similarity_ranks
+from IR.evalfunc import distance_func, cosine_func
 import pickle
 
 def getStreamerVectors():
@@ -56,7 +57,6 @@ def main():
 
 
 
-
         keyword = checkArgument(sys.argv)
         if keyword is None:
             print('\n===============  We provide various streamers below  ===============\n')
@@ -72,12 +72,15 @@ def main():
             print('Please check your input')
             quit()
 
+        
+        print("\n\n- rank of cosine similarity")
+        for rank in cosine_func(SV, keyword):
+            print(rank)
 
-
-        print('Searching...')
-
-
-
+        print("\n\n- rank of euclidian distance")
+        for rank in distance_func(SV, keyword):
+            print(rank)
+            
     except(FileNotFoundError):
         print('Error occurred making streamer as a vector.')
 
