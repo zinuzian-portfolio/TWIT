@@ -16,11 +16,14 @@ f.close()
 def build_get_follow_url(user_id, from_to):
     url = "https://api.twitch.tv/helix/users/follows?first=100&"
     from_to_param_name = ""
+    if from_to == "both":
+        url = url + "from_id=" + str(user_id[0]) + "&to_id=" + str(user_id[1])
+        return url
     if from_to == "from":
         from_to_param_name = "from_id"
     else:
         from_to_param_name = "to_id"
-    url = url + from_to_param_name + "=" + user_id
+    url = url + from_to_param_name + "=" + str(user_id)
     return url
 
 def change_url_pagination(url, pagination):
@@ -33,6 +36,8 @@ def change_url_pagination(url, pagination):
 # get top 500 follows (리퀘스트 너무 많이 보내면 거절당해서 500개만 가져옴)
 # if from_to == "from", get ids 'user following'
 # if from_to == "to", get ids 'following user'
+# if from_to == "both", if user_id[0] follows user_id[1] return user_id[0]
+#                       , else return an empty list
 def getFollows(user_id, from_to):
     follows = list()
     url = build_get_follow_url(user_id, from_to)
@@ -62,7 +67,6 @@ def getFollows(user_id, from_to):
             headers = header
         )
         response_dict = json.loads(response.data.decode('utf-8'))
-        print(response_dict)
         total = response_dict["total"]
         data = response_dict["data"]
         for follow_info in data:
@@ -73,6 +77,8 @@ def getFollows(user_id, from_to):
 def getApikey():
     return API_KEY
 
+
+# streamer name -> id
 def get_id_by_name(name):
     url = "https://api.twitch.tv/helix/users?login=" + name
     header = {'Client-ID': API_KEY}
@@ -85,6 +91,6 @@ def get_id_by_name(name):
     data = response_dict["data"]
     return data[0]["id"]
 
-# test get id by name
-# expected output: 57025612
-print(get_id_by_name("thijs"))
+# test get follows "both" mode
+# expected output: ('66526596')
+print(getFollows((2, 57025612),"both"))
