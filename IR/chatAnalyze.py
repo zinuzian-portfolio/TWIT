@@ -2,7 +2,7 @@ from nltk.stem import PorterStemmer
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from collections import Counter, OrderedDict
-from repeatReplacer import RepeatReplacer
+from IR.repeatReplacer import RepeatReplacer
 import operator
 import re
 import os
@@ -58,9 +58,11 @@ class ChatAnalyze:
         data_path = os.path.join(os.getcwd(), "data")
         chatlogpath = os.path.join(data_path, self.streamer)
         chatlogList = os.listdir(chatlogpath)
-        chatlogList = [file for file in chatlogList if file.endswith(".txt")]
+        chatlogList = [os.path.join(chatlogpath, file)
+                       for file in chatlogList if file.endswith(".txt")]
 
-        print("{} has {} chatlogs which are {}".format(self.streamer, len(chatlogList), chatlogList))
+        print("{} has {} chatlogs which are {}".format(
+            self.streamer, len(chatlogList), chatlogList))
         return chatlogList
 
     def Preprocessing(self, chatlog):
@@ -182,14 +184,25 @@ class ChatAnalyze:
 
 
 def normalizing(Sectioned_Result):
+
     # Normalization
     max_sum = max(Sectioned_Result.items(),
                   key=operator.itemgetter(1))[1]
 
     for key, value in Sectioned_Result.items():
-        Sectioned_Result[key] = value / max_sum
+        Sectioned_Result[key] = round(value / max_sum, 2)
 
     return Sectioned_Result
+
+
+def ChangeToSecond(timestamp):
+    arr = re.split(":", timestamp)
+
+    if len(arr) != 3:
+        print("check time string :"+timestamp)
+    else:
+        return int(arr[0].replace("[", ""))*3600 + int(arr[1])*60 + int(arr[2].replace("]", ""))
+    return -1
 
     # How to use this class
 # if __name__ == '__main__':

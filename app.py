@@ -1,5 +1,6 @@
 import sys
 import os
+from IR.highlightAlgo import makeHighlightBystreamer
 from IR.vectorizer import vectorize
 from IR.query import get_query, similarity_ranks
 from IR.evalfunc import distance_func, cosine_func
@@ -30,8 +31,6 @@ def getStreamerVectors():
     print('Complete.')
     # print(streamerVector)
     return streamerVector
-
-def chatResult():
 
 
 def main():
@@ -77,10 +76,28 @@ def main():
             print(rank)
 
         # Chatlog Analyze
-        print('numOfHighlights : the number of expected highlights for each chatlog')
-        print('Your numOfHighlights is ')
+        print(" ====================== ")
+        print(" Chat log Analyze START ")
+        print(" ====================== ")
 
-        makeHighlightBystreamer(keyword, )
+        print('[numOfHighlights] the number of expected highlights for each chatlog')
+        numOfHighlights = input('Your numOfHighlights is ')
+
+        print(
+            '[cummulative_sec] how many next seconds you want to consider for chat analyzing')
+        cummulative_sec = input('Your cummulative_sec is ')
+
+        print('[delay] how long each highlight section is suppposed to be')
+        delay = input('Your delay is ')
+
+        print(" ====================== ")
+        
+        makeHighlightBystreamer(
+            keyword, int(numOfHighlights), int(cummulative_sec), int(delay))
+
+        print("")
+        print(" << Highlight Result for chatlog : {} >>")
+        
 
     except(FileNotFoundError):
         print('Error occurred making streamer as a vector.')
