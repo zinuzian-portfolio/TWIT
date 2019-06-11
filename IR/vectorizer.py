@@ -8,6 +8,7 @@ import numpy as np
 
 def vectorize():
     streamerInfo = dict()
+    chatters_in_streamer = dict()
     data_path = os.path.join(os.getcwd(), "data")
     # data_path = os.path.join("..", "data")
 
@@ -17,6 +18,7 @@ def vectorize():
     for (yourpath, dir, files) in os.walk(data_path):
 
         chatloglist = list()
+        chatters = set()
 
         for filename in files:
             target = os.path.join(yourpath, filename)
@@ -34,8 +36,12 @@ def vectorize():
 
                 # preprocessing - only chat content
                 regex_time = re.compile(r'\[\d+:\d{2}:\d{2}\]')  # [0:00:00]
+                chatlog = re.sub(regex_time, '', chatlog)   # delete them all
+
+
                 regex_username = re.compile(r'<([A-Za-z0-9_]+)>')  # <abcd1234>
-                chatlog = re.sub(regex_time, '', chatlog)
+                chat_users = set(re.findall(regex_username,chatlog))
+                chatters.update(chat_users)
                 chatlog = re.sub(regex_username, '', chatlog)
 
                 chatlog.replace("\n", " ")
@@ -45,6 +51,7 @@ def vectorize():
         # example) { 'streamerA' : [chatlog1.txt, chatlog2.txt, ...], ...}
         temp = yourpath.split('\\')
         streamerInfo[temp[-1]] = chatloglist
+        chatters_in_streamer[temp[-1]] = list(chatters)
 
     print("\nAll chatlog preprocessing complete.")
     print("Total number of chatlog is ", str(len(corpus)))
@@ -75,6 +82,7 @@ def vectorize():
 
     # delete the first element of streamerInfo since it is 'data':[]
     del streamerInfo['data']
+    del chatters_in_streamer['data']
     print(streamerInfo)
 
 
@@ -91,7 +99,7 @@ def vectorize():
 
     # print(streamerVector)
 
-    return svd, streamerVector
+    return streamerVector, chatters_in_streamer
 
 
 if __name__ == "__main__":

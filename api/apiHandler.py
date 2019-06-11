@@ -4,12 +4,12 @@ import json
 import urllib.parse as urlparse
 from urllib.parse import urlencode
 import time
-
+import os
 http = urllib3.PoolManager(
     cert_reqs='CERT_REQUIRED',
     ca_certs=certifi.where())
 
-f = open("./api_key", 'r')
+f = open(os.path.join(os.getcwd(),"api","api_key"), 'r')
 API_KEY = f.readline()
 f.close()
 
