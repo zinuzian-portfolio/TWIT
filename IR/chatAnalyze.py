@@ -140,6 +140,10 @@ class ChatAnalyze:
 
             score[self.table_data.index(eachData)] = target_score
 
+        # Pop-up localed label words
+        for i in range(10):
+            self.labeledwords.pop()
+            
         # Result
         result = sorted(Counter(self.table_time).items())
         index = 0

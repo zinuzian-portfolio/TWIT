@@ -60,7 +60,9 @@ def makeHighlightBystreamer(streamer, numOfHighlights, cummulative_sec, delay):
         print(sorted_list)
 
         highlightlist = getTimeSection(sorted_list, videoLen, delay)
-
+        print("")
+        print(" << Highlight result for the chatlog {} belonged to '{}' >>".
+              format(eachChatlog, streamer))
         print(highlightlist)
 
 
@@ -76,11 +78,11 @@ def ChangeToSecond(timestamp):
 
 def ChangeToTime(timestamp):
 
-    hour = timestamp/3600
-    minute = (timestamp % 3600)/60
-    second = timestamp % 60
+    hour = int(timestamp/3600)
+    minute = int((timestamp % 3600)/60)
+    second = int(timestamp % 60)
 
-    return str(hour)+":"+str(minute)+":"+str(second)
+    return str(hour).zfill(2)+":"+str(minute).zfill(2)+":"+str(second).zfill(2)
 
 
 def getTimeSection(candidatesList, videoLen, delay):
@@ -89,8 +91,6 @@ def getTimeSection(candidatesList, videoLen, delay):
 
     for k in candidatesList.keys():
         candidates.append(ChangeToSecond(k))
-
-    print(candidates)
 
     # if picked points are too close
     mergeList = {}
@@ -127,5 +127,9 @@ def getTimeSection(candidatesList, videoLen, delay):
     # post-processing (change to time)
     output = list()
     for cand in candidates:
-        output.append(ChangeToTime(cand))
+        start = ChangeToTime(cand[0])
+        end = ChangeToTime(cand[1])
+
+        output.append([start, end])
+
     return output

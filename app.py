@@ -95,9 +95,6 @@ def main():
         makeHighlightBystreamer(
             keyword, int(numOfHighlights), int(cummulative_sec), int(delay))
 
-        print("")
-        print(" << Highlight Result for chatlog : {} >>")
-        
 
     except(FileNotFoundError):
         print('Error occurred making streamer as a vector.')
