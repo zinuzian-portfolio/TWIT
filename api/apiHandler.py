@@ -29,6 +29,8 @@ def build_get_follow_url(user_id, from_to):
 def change_url_pagination(url, pagination):
     url_parts = list(urlparse.urlparse(url))
     query = dict(urlparse.parse_qsl(url_parts[4]))
+    if not 'cursor' in pagination.keys():
+        return 'no result'
     query['after'] = pagination['cursor']
     url_parts[4] = urlencode(query)
     return urlparse.urlunparse(url_parts)
@@ -59,8 +61,9 @@ def getFollows(user_id, from_to):
         loop_count = 4
     for loop_iterator in range(loop_count):
         url = change_url_pagination(url, pagination)
+        if url == 'no result':
+            break
         # if there is no timeout, response will be 429 (too many request)
-        print("#" + str(loop_iterator+1))
         response = http.request(
             'GET',
             url,
@@ -91,6 +94,4 @@ def get_id_by_name(name):
     data = response_dict["data"]
     return data[0]["id"]
 
-# test get follows "both" mode
-# expected output: ('66526596')
-print(getFollows((2, 57025612),"both"))
+print(getFollows(56634537,'to'))
