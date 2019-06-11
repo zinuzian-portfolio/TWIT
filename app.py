@@ -1,8 +1,11 @@
 import sys
 import os
+from IR.highlightAlgo import makeHighlightBystreamer
 from IR.vectorizer import vectorize
 from IR.query import get_query, similarity_ranks
+from IR.evalfunc import distance_func, cosine_func
 import pickle
+
 
 def getStreamerVectors():
 
@@ -15,7 +18,6 @@ def getStreamerVectors():
         file = open(SVfilepath, "rb")
         streamerVector = pickle.load(file)
 
-
     # If it is the first time making streamer vector
     else:
         _, streamerVector = vectorize()
@@ -23,17 +25,12 @@ def getStreamerVectors():
         pickle.dump(streamerVector, file)
         file.close()
 
-
-
-
     if not streamerVector:
         raise FileNotFoundError
 
     print('Complete.')
     # print(streamerVector)
     return streamerVector
-
-
 
 
 def main():
@@ -46,7 +43,6 @@ def main():
 
         SV = getStreamerVectors()
 
-
         # 1. Read streamer's vectors from a binary file
         # 2. Check if the input streamer is one of them
         #  2.1 If not, return error
@@ -54,36 +50,54 @@ def main():
         # 4. Evaluate the closest vector by followers.
         # 5. Print out the result
 
-
-
-
         keyword = checkArgument(sys.argv)
         if keyword is None:
-            print('\n===============  We provide various streamers below  ===============\n')
+            print(
+                '\n===============  We provide various streamers below  ===============\n')
             for key in SV.keys():
                 print(key)
-            print('\n====================================================================')
-            keyword = input('Please input one streamer and we will give you the most similar streamer : ')
+            print(
+                '\n====================================================================')
+            keyword = input(
+                'Please input one streamer and we will give you the most similar streamer : ')
 
         print('Your input is ', keyword)
-
 
         if keyword not in SV.keys():
             print('Please check your input')
             quit()
 
+        print("\n\n- rank of cosine similarity")
+        for rank in cosine_func(SV, keyword):
+            print(rank)
 
+        print("\n\n- rank of euclidian distance")
+        for rank in distance_func(SV, keyword):
+            print(rank)
 
-        print('Searching...')
+        # Chatlog Analyze
+        print(" ====================== ")
+        print(" Chat log Analyze START ")
+        print(" ====================== ")
 
+        print('[numOfHighlights] the number of expected highlights for each chatlog')
+        numOfHighlights = input('Your numOfHighlights is ')
+
+        print(
+            '[cummulative_sec] how many next seconds you want to consider for chat analyzing')
+        cummulative_sec = input('Your cummulative_sec is ')
+
+        print('[delay] how long each highlight section is suppposed to be')
+        delay = input('Your delay is ')
+
+        print(" ====================== ")
+        
+        makeHighlightBystreamer(
+            keyword, int(numOfHighlights), int(cummulative_sec), int(delay))
 
 
     except(FileNotFoundError):
         print('Error occurred making streamer as a vector.')
-
-
-
-
 
 
 def checkArgument(argv):
