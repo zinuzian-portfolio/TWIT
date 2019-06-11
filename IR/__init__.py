@@ -3,7 +3,7 @@ Description for Package
 """
 from IR.query import get_query, similarity_ranks
 from IR.vectorizer import vectorize
-from IR.highlightAlgo import makeHighlightBystreamer, ChangeToSecond, getTimeSection
+from IR.highlightAlgo import makeHighlightBystreamer, ChangeToSecond, ChangeToTime, getTimeSection
 from IR.chatAnalyze import ChatAnalyze, normalizing
 from IR.repeatReplacer import RegexpReplacer, RepeatReplacer
 from IR.evalfunc import cosine_func, distance_func

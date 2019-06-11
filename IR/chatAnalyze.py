@@ -23,11 +23,7 @@ import os
     chatanlyze = ChatAnalyze(f, labeldwords)
     score = chatanlyze.Preprocessing()
     result = chatanlyze.Scoring(score)
-    sectined_result = ca.Sectioned_Scoring(result, 5)
-    cand = chatanlyze.makeCandidateList(histogram=sectined_result,
-                                    numOfMaximumHighlight=10,
-                                    delay=1000,
-                                    videoLen=19000)
+    sectined_result = chatanlyze.Sectioned_Scoring(result, 5)
 '''
 
 
@@ -143,7 +139,7 @@ class ChatAnalyze:
         # Pop-up localed label words
         for i in range(10):
             self.labeledwords.pop()
-            
+
         # Result
         result = sorted(Counter(self.table_time).items())
         index = 0
@@ -197,23 +193,3 @@ def normalizing(Sectioned_Result):
         Sectioned_Result[key] = round(value / max_sum, 2)
 
     return Sectioned_Result
-
-
-def ChangeToSecond(timestamp):
-    arr = re.split(":", timestamp)
-
-    if len(arr) != 3:
-        print("check time string :"+timestamp)
-    else:
-        return int(arr[0].replace("[", ""))*3600 + int(arr[1])*60 + int(arr[2].replace("]", ""))
-    return -1
-
-    # How to use this class
-# if __name__ == '__main__':
-#     labeldwords = ['pog', 'poggers', 'pogchamp', 'holy', 'shit', 'wow', 'ez', 'clip', 'nice',
-#                    'omg', 'wut', 'gee', 'god', 'dirty', 'way', 'moly', 'wtf', 'fuck', 'crazy', 'omfg']
-#     f = open("test.txt", 'rt', encoding='UTF8')
-#     chatanalyze = ChatAnalyze(f, labeldwords)
-#     score = chatanalyze.Preprocessing()
-#     result = chatanalyze.Scoring(score)
-#     sectined_result = chatanalyze.Sectioned_Scoring(result, 5)
