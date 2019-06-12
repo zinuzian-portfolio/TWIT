@@ -101,7 +101,7 @@ def get_id_by_name(name):
 # input: streamer name (string)
 # output: follows' user_id list
 def get_follows_in_file(streamer_name):
-    with open('follows/follows_' + str(streamer_name) + '.txt', 'r') as f:
+    with open(os.path.join(os.getcwd(), 'api', 'follows/follows_' + str(streamer_name) + '.txt'), 'r') as f:
         reader = csv.reader(f)
         res = list(reader)
     return res[0]
