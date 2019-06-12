@@ -3,6 +3,7 @@
 
 from api.apiHandler import getFollows
 from api.apiHandler import get_id_by_name
+import os
 
 
 '''
@@ -17,7 +18,7 @@ def intersect(dictionary, mode=1):
     output = dict()
     ratio = dict()
 
-    for streamer, userlist in dictionary:
+    for streamer, userlist in dictionary.items():
 
         # TODO 호출필요
         # if from_to == "from", get ids 'user following'
@@ -48,3 +49,4 @@ def intersect(dictionary, mode=1):
     elif mode == 1:
 
         return output
+

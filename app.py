@@ -4,6 +4,7 @@ from IR.highlightAlgo import makeHighlightBystreamer
 from IR.vectorizer import vectorize
 from IR.query import get_query, similarity_ranks
 from IR.evalfunc import distance_func, cosine_func
+from downloading import intersect
 import pickle
 
 
@@ -11,26 +12,40 @@ def getStreamerVectors():
 
     # <Prerequisite>
     # Make streamers vectors and save it as a binary file
-    streamerVector = {}
-    SVfilepath = os.path.join(os.getcwd(), "StreamerVector.dat")
+    streamerVector = dict()
+    chatters_in_streamer = dict()
+
+    SVfilepath = os.path.join(os.getcwd(), "bin", "StreamerVector.dat")
+    CISfilepath = os.path.join(os.getcwd(), "bin", "ChattersInStreamer.dat")
+
     print('Loding...', end=' ')
-    if os.path.isfile(SVfilepath):
+    if os.path.isfile(SVfilepath) and os.path.isfile(CISfilepath):
         file = open(SVfilepath, "rb")
         streamerVector = pickle.load(file)
+        file.close()
+        file = open(CISfilepath, "rb")
+        chatters_in_streamer = pickle.load(file)
+        file.close()
 
     # If it is the first time making streamer vector
     else:
-        _, streamerVector = vectorize()
+        if not os.path.exists(os.path.join(os.getcwd(), "bin")):
+            os.mkdir(os.path.join(os.getcwd(), "bin"))
+        streamerVector, chatters_in_streamer = vectorize()
         file = open(SVfilepath, "wb")
         pickle.dump(streamerVector, file)
         file.close()
+        file = open(CISfilepath, "wb")
+        pickle.dump(chatters_in_streamer, file)
+        file.close()
+
 
     if not streamerVector:
         raise FileNotFoundError
 
     print('Complete.')
     # print(streamerVector)
-    return streamerVector
+    return streamerVector, chatters_in_streamer
 
 
 def main():
@@ -41,7 +56,7 @@ def main():
         # <Prerequisite>
         # Make streamers vectors and save it as a binary file
 
-        SV = getStreamerVectors()
+        SV,CIS = getStreamerVectors()
 
         # 1. Read streamer's vectors from a binary file
         # 2. Check if the input streamer is one of them
@@ -67,13 +82,23 @@ def main():
             print('Please check your input')
             quit()
 
+
+        royal = intersect(CIS, mode=1)
+
         print("\n\n- rank of cosine similarity")
         for rank in cosine_func(SV, keyword):
             print(rank)
+            print("royal: ", royal[rank], "%")
+
 
         print("\n\n- rank of euclidian distance")
         for rank in distance_func(SV, keyword):
             print(rank)
+            print("royal: ", royal[rank], "%")
+
+        # for key, val in CIS.items():
+        #     print(key)
+        #     print(len(val))
 
         # Chatlog Analyze
         print(" ====================== ")
