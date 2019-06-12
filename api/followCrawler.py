@@ -59,6 +59,8 @@ def getFollows(user_id, from_to):
     pagination = response_dict["pagination"]
 
     loop_count = (int(total)-1)//20
+    if loop_count > 99:
+        loop_count = 99
     for loop_iterator in range(loop_count):
         time.sleep(30)
         url = change_url_pagination(url, pagination)
@@ -107,6 +109,6 @@ for name in streamerNames:
     id = get_id_by_name(name)
     #streamers[name] = get_id_by_name(name)
     follows = getFollows(id, 'to')
-    with open(os.path.join(os.getcwd(), 'follows_' + name), 'w+', newline='') as myfile:
-        wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+    with open(os.path.join(os.getcwd(), 'follows_' + name + ".txt"), 'w+', newline='') as myfile:
+        wr = csv.writer(myfile, quoting=csv.QUOTE_NONE)
         wr.writerow(follows)

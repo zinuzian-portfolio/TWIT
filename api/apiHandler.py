@@ -4,6 +4,7 @@ import json
 import urllib.parse as urlparse
 from urllib.parse import urlencode
 import time
+import csv
 
 http = urllib3.PoolManager(
     cert_reqs='CERT_REQUIRED',
@@ -94,4 +95,15 @@ def get_id_by_name(name):
     data = response_dict["data"]
     return data[0]["id"]
 
-print(getFollows(56634537,'to'))
+# need 'follows/folllows_xxx' files
+def get_follows_in_file(streamer_name):
+    with open('follows/follows_' + streamer_name + '.txt', 'r') as f:
+        reader = csv.reader(f)
+        res = list(reader)
+    return res[0]
+
+# test code: follows in file
+# expected result: 10000 size user_id list
+follows = get_follows_in_file('thijs')
+print(follows)
+print(len(follows))
