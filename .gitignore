@@ -3,3 +3,6 @@
 .idea/
 .vscode/
 api/api_key
+api/*.txt
+api/follows/*.txt
+api/*.zip
