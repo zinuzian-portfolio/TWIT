@@ -17,8 +17,10 @@ def cosine_func(svdict, selected_key):
         temp_list.append(np.dot(a.reshape(1,-1), b.reshape(-1,1))/ ((np.sum(a**2))**(1/2) + np.sum(b**2)**(1/2)))
         key_list.append(key)
     key_list = np.array(key_list)
+    temp_list = np.array(temp_list)
     key_list = key_list.take(sorted(range(len(temp_list)), reverse = True, key = lambda k: temp_list[k]))
-    return key_list[1:]
+    value_list = temp_list.take(sorted(range(len(temp_list)), reverse = True, key = lambda k: temp_list[k]))
+    return key_list[1:], value_list[1:]
 
 
 def distance_func(svdict, selected_key):
@@ -30,6 +32,8 @@ def distance_func(svdict, selected_key):
         temp_list.append(np.linalg.norm(a-b))
         key_list.append(key)
     key_list = np.array(key_list)
-    key_list = key_list.take(sorted(range(len(temp_list)), reverse = False, key = lambda k: temp_list[k]))
-    return key_list[1:]
+    temp_list = np.array(temp_list)
+    key_list = key_list.take(sorted(range(len(temp_list)), reverse = True, key = lambda k: temp_list[k]))
+    value_list = temp_list.take(sorted(range(len(temp_list)), reverse = True, key = lambda k: temp_list[k]))
+    return key_list[1:], value_list[1:]
 
