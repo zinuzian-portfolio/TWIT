@@ -9,6 +9,13 @@ from downloading import intersect
 import pickle
 
 
+game_list = ['League of Legends', 'Fortnite', 'Overwatch', 'GTA5', 'Hearth Stone', 'World of Warcraft', 'ETC']
+lol = ['c9sneaky', 'g2perkz', 'rush', 'vaporadark', 'voyboy']
+fn = ['jordyx3', 'kingrichard', 'mrfreshasian', 'ninja', 'tfue']
+ow = ['kolento', 'moonmoon_ow']
+gta = ['lord_kebun', 'polecat324', 'vader']
+hs = ['boarcontrolhs', 'purple_hs', 'thijs', 'zetalot']
+wow = ['summit1g']
 def getStreamerVectors():
 
     # <Prerequisite>
@@ -65,7 +72,6 @@ def main():
         # 3. Get a closest vector to the input streamer
         # 4. Evaluate the closest vector by followers.
         # 5. Print out the result
-
         keyword = checkArgument(sys.argv)
         if keyword is None:
             print(
@@ -88,17 +94,54 @@ def main():
 
 
         print("\n\n- rank of cosine similarity")
-        for rank in cosine_func(SV, keyword):
+        for rank, value in cosine_func(SV, keyword):
             print(rank, end=" | ")
             # print(tag)
-            print(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]))
-
-
+            if followrs_of_streamer[keyword] in lol:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[0], value , followers_of_streamer[rank]), sep = '|')
+            
+            elif followrs_of_streamer[keyword] in fn:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[1], value , followers_of_streamer[rank]), sep = '|')
+            
+            elif followrs_of_streamer[keyword] in ow:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[2], value , followers_of_streamer[rank]), sep = '|')
+                
+            elif followrs_of_streamer[keyword] in gta:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[3], value , followers_of_streamer[rank]), sep = '|')
+                
+            elif followrs_of_streamer[keyword] in hs:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[4], value , followers_of_streamer[rank]), sep = '|')
+                
+            elif followrs_of_streamer[keyword] in wow:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[5], value , followers_of_streamer[rank]), sep = '|')
+            
+            else:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[6], value , followers_of_streamer[rank]), sep = '|')
+                
         print("\n\n- rank of euclidian distance")
-        for rank in distance_func(SV, keyword):
+        for rank, value in distance_func(SV, keyword):
             print(rank, end=" | ")
             # print(tag)
-            print(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]))
+            if followrs_of_streamer[keyword] in lol:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[0], value , followers_of_streamer[rank]), sep = '|')
+            
+            elif followrs_of_streamer[keyword] in fn:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[1], value , followers_of_streamer[rank]), sep = '|')
+            
+            elif followrs_of_streamer[keyword] in ow:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[2], value , followers_of_streamer[rank]), sep = '|')
+                
+            elif followrs_of_streamer[keyword] in gta:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[3], value , followers_of_streamer[rank]), sep = '|')
+                
+            elif followrs_of_streamer[keyword] in hs:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[4], value , followers_of_streamer[rank]), sep = '|')
+                
+            elif followrs_of_streamer[keyword] in wow:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[5], value , followers_of_streamer[rank]), sep = '|')
+            
+            else:
+                print(evaluate_between(followers_of_streamer[keyword], game_list[6], value , followers_of_streamer[rank]), sep = '|')
 
         # Chatlog Analyze
         print(" ====================== ")
