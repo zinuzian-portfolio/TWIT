@@ -118,7 +118,6 @@ def main():
             elif rank in wow:
                 print(game_list[5], round(value, 5),
                       round(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]), 4), sep=' | ')
-
             else:
                 print(game_list[6], round(value, 5),
                       round(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]), 4), sep=' | ')
@@ -141,7 +140,6 @@ def main():
             elif rank in ow:
                 print(game_list[2], round(value, 5),
                       round(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]), 4), sep=' | ')
-
             elif rank in gta:
                 print(game_list[3], round(value, 5),
                       round(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]), 4), sep=' | ')
