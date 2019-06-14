@@ -99,22 +99,22 @@ def main():
         for rank, value in zip(r_result, v_result):
             print(rank, end=" | ")
             # print(tag)
-            if followrs_of_streamer[keyword] in lol:
+            if followers_of_streamer[keyword] in lol:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[0], value , followers_of_streamer[rank]), sep = '|')
             
-            elif followrs_of_streamer[keyword] in fn:
+            elif followers_of_streamer[keyword] in fn:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[1], value , followers_of_streamer[rank]), sep = '|')
             
-            elif followrs_of_streamer[keyword] in ow:
+            elif followers_of_streamer[keyword] in ow:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[2], value , followers_of_streamer[rank]), sep = '|')
                 
-            elif followrs_of_streamer[keyword] in gta:
+            elif followers_of_streamer[keyword] in gta:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[3], value , followers_of_streamer[rank]), sep = '|')
                 
-            elif followrs_of_streamer[keyword] in hs:
+            elif followers_of_streamer[keyword] in hs:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[4], value , followers_of_streamer[rank]), sep = '|')
                 
-            elif followrs_of_streamer[keyword] in wow:
+            elif followers_of_streamer[keyword] in wow:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[5], value , followers_of_streamer[rank]), sep = '|')
             
             else:
@@ -126,22 +126,22 @@ def main():
         for rank, value in zip(r_result, v_result):
             print(rank, end=" | ")
             # print(tag)
-            if followrs_of_streamer[keyword] in lol:
+            if followers_of_streamer[keyword] in lol:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[0], value , followers_of_streamer[rank]), sep = '|')
             
-            elif followrs_of_streamer[keyword] in fn:
+            elif followers_of_streamer[keyword] in fn:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[1], value , followers_of_streamer[rank]), sep = '|')
             
-            elif followrs_of_streamer[keyword] in ow:
+            elif followers_of_streamer[keyword] in ow:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[2], value , followers_of_streamer[rank]), sep = '|')
                 
-            elif followrs_of_streamer[keyword] in gta:
+            elif followers_of_streamer[keyword] in gta:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[3], value , followers_of_streamer[rank]), sep = '|')
                 
-            elif followrs_of_streamer[keyword] in hs:
+            elif followers_of_streamer[keyword] in hs:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[4], value , followers_of_streamer[rank]), sep = '|')
                 
-            elif followrs_of_streamer[keyword] in wow:
+            elif followers_of_streamer[keyword] in wow:
                 print(evaluate_between(followers_of_streamer[keyword], game_list[5], value , followers_of_streamer[rank]), sep = '|')
             
             else:
