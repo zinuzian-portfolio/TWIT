@@ -4,15 +4,14 @@ import json
 import urllib.parse as urlparse
 from urllib.parse import urlencode
 import time
-import csv
 import os
-
+import csv
 
 http = urllib3.PoolManager(
     cert_reqs='CERT_REQUIRED',
     ca_certs=certifi.where())
 
-f = open(os.path.join(os.getcwd(),"api","api_key"), 'r')
+f = open("./api_key", 'r')
 API_KEY = f.readline()
 f.close()
 
@@ -60,9 +59,10 @@ def getFollows(user_id, from_to):
     pagination = response_dict["pagination"]
 
     loop_count = (int(total)-1)//20
-    if loop_count > 4:
-        loop_count = 4
+    if loop_count > 99:
+        loop_count = 99
     for loop_iterator in range(loop_count):
+        time.sleep(30)
         url = change_url_pagination(url, pagination)
         if url == 'no result':
             break
@@ -73,6 +73,8 @@ def getFollows(user_id, from_to):
             headers = header
         )
         response_dict = json.loads(response.data.decode('utf-8'))
+        print('#' + str(loop_iterator + 1))
+        print(response_dict)
         total = response_dict["total"]
         data = response_dict["data"]
         for follow_info in data:
@@ -82,7 +84,6 @@ def getFollows(user_id, from_to):
 
 def getApikey():
     return API_KEY
-
 
 # streamer name -> id
 def get_id_by_name(name):
@@ -97,17 +98,17 @@ def get_id_by_name(name):
     data = response_dict["data"]
     return data[0]["id"]
 
-# need 'follows/folllows_xxx' files
-# input: streamer name (string)
-# output: follows' user_id list
-def get_follows_in_file(streamer_name):
-    with open(os.path.join(os.getcwd(), 'api', 'follows/follows_' + str(streamer_name) + '.txt'), 'r') as f:
-        reader = csv.reader(f)
-        res = list(reader)
-    return res[0]
+def getStreamerNames():
+    path = os.path.join(os.getcwd(), "../data")
+    return [dI for dI in os.listdir(path) if os.path.isdir(os.path.join(path,dI))]
 
-# test code: follows in file
-# expected result: 10000 size user_id list
-follows = get_follows_in_file('thijs')
-print(follows)
-print(len(follows))
+
+streamerNames = getStreamerNames()
+#streamers = {}
+for name in streamerNames:
+    id = get_id_by_name(name)
+    #streamers[name] = get_id_by_name(name)
+    follows = getFollows(id, 'to')
+    with open(os.path.join(os.getcwd(), 'follows_' + name + ".txt"), 'w+', newline='') as myfile:
+        wr = csv.writer(myfile, quoting=csv.QUOTE_NONE)
+        wr.writerow(follows)

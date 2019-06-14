@@ -3,6 +3,7 @@
 
 from api.apiHandler import getFollows
 from api.apiHandler import get_id_by_name
+import os
 
 
 '''
@@ -17,14 +18,20 @@ def intersect(dictionary, mode=1):
     output = dict()
     ratio = dict()
 
-    for streamer, userlist in dictionary:
+    for streamer, userlist in dictionary.items():
 
         # TODO 호출필요
         # if from_to == "from", get ids 'user following'
         # if from_to == "to", get ids 'following user'
-        streamerID = get_id_by_name(streamer)
-        followers = getFollows(streamerID, from_to="from")
+        # streamerID = get_id_by_name(streamer)
+        # followers = getFollows(streamerID, from_to="from")
         # ['abc', 'a1', ...]
+
+
+        followers_path = os.path.join(os.getcwd(), "follows", "follows_"+streamer+".txt")
+        with open(followers_path, "r") as ff:
+            followers = ff.read()
+            followers = followers.split(",")
 
         intersect = list()
         countFollowers = 0
@@ -48,3 +55,4 @@ def intersect(dictionary, mode=1):
     elif mode == 1:
 
         return output
+

@@ -2,8 +2,10 @@ import sys
 import os
 from IR.highlightAlgo import makeHighlightBystreamer
 from IR.vectorizer import vectorize
+from IR.evaluator import *
 from IR.query import get_query, similarity_ranks
 from IR.evalfunc import distance_func, cosine_func
+from downloading import intersect
 import pickle
 
 
@@ -11,26 +13,40 @@ def getStreamerVectors():
 
     # <Prerequisite>
     # Make streamers vectors and save it as a binary file
-    streamerVector = {}
-    SVfilepath = os.path.join(os.getcwd(), "StreamerVector.dat")
+    streamerVector = dict()
+    chatters_in_streamer = dict()
+
+    SVfilepath = os.path.join(os.getcwd(), "bin", "StreamerVector.dat")
+    CISfilepath = os.path.join(os.getcwd(), "bin", "ChattersInStreamer.dat")
+
     print('Loding...', end=' ')
-    if os.path.isfile(SVfilepath):
+    if os.path.isfile(SVfilepath) and os.path.isfile(CISfilepath):
         file = open(SVfilepath, "rb")
         streamerVector = pickle.load(file)
+        file.close()
+        file = open(CISfilepath, "rb")
+        chatters_in_streamer = pickle.load(file)
+        file.close()
 
     # If it is the first time making streamer vector
     else:
-        _, streamerVector = vectorize()
+        if not os.path.exists(os.path.join(os.getcwd(), "bin")):
+            os.mkdir(os.path.join(os.getcwd(), "bin"))
+        streamerVector, chatters_in_streamer = vectorize()
         file = open(SVfilepath, "wb")
         pickle.dump(streamerVector, file)
         file.close()
+        file = open(CISfilepath, "wb")
+        pickle.dump(chatters_in_streamer, file)
+        file.close()
+
 
     if not streamerVector:
         raise FileNotFoundError
 
     print('Complete.')
     # print(streamerVector)
-    return streamerVector
+    return streamerVector, chatters_in_streamer
 
 
 def main():
@@ -41,8 +57,8 @@ def main():
         # <Prerequisite>
         # Make streamers vectors and save it as a binary file
 
-        SV = getStreamerVectors()
-
+        SV,CIS = getStreamerVectors()
+        followers_of_streamer = load_follower_ids(SV.keys())
         # 1. Read streamer's vectors from a binary file
         # 2. Check if the input streamer is one of them
         #  2.1 If not, return error
@@ -67,28 +83,36 @@ def main():
             print('Please check your input')
             quit()
 
+
+        # royal = intersect(CIS, mode=1)
+
+
         print("\n\n- rank of cosine similarity")
         for rank in cosine_func(SV, keyword):
-            print(rank)
+            print(rank, end=" | ")
+            # print(tag)
+            print(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]))
+
 
         print("\n\n- rank of euclidian distance")
         for rank in distance_func(SV, keyword):
-            print(rank)
+            print(rank, end=" | ")
+            # print(tag)
+            print(evaluate_between(followers_of_streamer[keyword], followers_of_streamer[rank]))
 
         # Chatlog Analyze
         print(" ====================== ")
         print(" Chat log Analyze START ")
         print(" ====================== ")
 
-        print('[numOfHighlights] the number of expected highlights for each chatlog')
-        numOfHighlights = input('Your numOfHighlights is ')
+        print('[numOfHighlights] The number of expected highlights for each chatlog')
+        numOfHighlights = input('Please input your numOfHighlights : ')
 
-        print(
-            '[cummulative_sec] how many next seconds you want to consider for chat analyzing')
-        cummulative_sec = input('Your cummulative_sec is ')
+        print('[cummulative_sec] How many next seconds you want to consider for chat analyzing')
+        cummulative_sec = input('Please input your cummulative_sec : ')
 
-        print('[delay] how long each highlight section is suppposed to be')
-        delay = input('Your delay is ')
+        print('[delay] How long each highlight section is suppposed to be')
+        delay = input('Please input your delay : ')
 
         print(" ====================== ")
         
