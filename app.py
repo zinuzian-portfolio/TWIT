@@ -94,7 +94,9 @@ def main():
 
 
         print("\n\n- rank of cosine similarity")
-        for rank, value in cosine_func(SV, keyword):
+        r_result, v_result = cosine_func(SV, keyword)
+        
+        for rank, value in zip(r_result, v_result):
             print(rank, end=" | ")
             # print(tag)
             if followrs_of_streamer[keyword] in lol:
@@ -119,7 +121,9 @@ def main():
                 print(evaluate_between(followers_of_streamer[keyword], game_list[6], value , followers_of_streamer[rank]), sep = '|')
                 
         print("\n\n- rank of euclidian distance")
-        for rank, value in distance_func(SV, keyword):
+        r_result, v_result = distance_func(SV, keyword)
+        
+        for rank, value in zip(r_result, v_result):
             print(rank, end=" | ")
             # print(tag)
             if followrs_of_streamer[keyword] in lol:
