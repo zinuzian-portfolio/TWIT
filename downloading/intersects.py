@@ -23,9 +23,15 @@ def intersect(dictionary, mode=1):
         # TODO 호출필요
         # if from_to == "from", get ids 'user following'
         # if from_to == "to", get ids 'following user'
-        streamerID = get_id_by_name(streamer)
-        followers = getFollows(streamerID, from_to="from")
+        # streamerID = get_id_by_name(streamer)
+        # followers = getFollows(streamerID, from_to="from")
         # ['abc', 'a1', ...]
+
+
+        followers_path = os.path.join(os.getcwd(), "follows", "follows_"+streamer+".txt")
+        with open(followers_path, "r") as ff:
+            followers = ff.read()
+            followers = followers.split(",")
 
         intersect = list()
         countFollowers = 0

@@ -83,7 +83,7 @@ def vectorize():
     # delete the first element of streamerInfo since it is 'data':[]
     del streamerInfo['data']
     del chatters_in_streamer['data']
-    print(streamerInfo)
+    # print(streamerInfo)
 
 
     # To average svd result rows per streamer
