@@ -1,4 +1,4 @@
-numpy==1.16.3
+numpy==1.22.0
 tcd==3.0.3
 twitch-python==0.0.11
 
